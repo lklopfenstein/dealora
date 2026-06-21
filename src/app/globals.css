@@ -93,6 +93,7 @@ button { color: inherit; }
 .kicker { margin: 0 0 12px; color: var(--orange-dark) !important; font-size: 10px !important; font-weight: 900; letter-spacing: 1.7px; text-transform: uppercase; }
 .section-heading h2, .how-intro h2 { margin: 0; font-size: clamp(40px, 4.3vw, 64px); letter-spacing: -3.4px; line-height: .96; }
 .section-heading > p { margin: 0; max-width: 420px; color: var(--muted); font-size: 14px; line-height: 1.6; }
+.commission-note { display: block; margin-bottom: 5px; color: var(--ink); font-size: 11px; font-weight: 800; }
 .filter-bar { display: flex; justify-content: space-between; gap: 18px; align-items: center; margin-bottom: 29px; padding-bottom: 20px; border-bottom: 1px solid var(--line); }
 .category-pills { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; padding: 2px; }
 .category-pills::-webkit-scrollbar { display: none; }
@@ -177,11 +178,21 @@ footer { background: #eceae1; padding: 72px max(24px, calc((100vw - 1340px) / 2)
 .brand--footer { margin-bottom: 17px; }
 .footer-top > div:first-child > p { margin: 0; font-family: Georgia, serif; font-size: 18px; line-height: 1.4; color: #5c5e58; }
 .footer-top h4 { margin: 5px 0 18px; font-size: 10px; text-transform: uppercase; letter-spacing: 1.4px; }
-.footer-top button, .footer-top span { border: 0; background: none; padding: 0; margin: 0 0 10px; display: block; color: #656861; font-size: 11px; text-align: left; }
+.footer-top button, .footer-top span, .footer-top a { border: 0; background: none; padding: 0; margin: 0 0 10px; display: block; color: #656861; font-size: 11px; text-align: left; }
 .footer-top button { cursor: pointer; }
-.footer-top button:hover { color: var(--orange-dark); }
+.footer-top button:hover, .footer-top a:hover { color: var(--orange-dark); }
 .footer-top > div:last-child p { max-width: 350px; color: #777a72; font-size: 10px; line-height: 1.65; }
 .footer-bottom { padding-top: 18px; border-top: 1px solid #d2d3ca; display: flex; justify-content: space-between; color: #898b84; font-size: 9px; text-transform: uppercase; letter-spacing: .6px; }
+
+.policy-page { min-height: 100vh; padding: 38px max(20px, calc((100vw - 900px) / 2)) 70px; }
+.policy-page > .brand { margin-bottom: 52px; }
+.policy-card { padding: clamp(28px, 6vw, 68px); background: var(--paper); border: 1px solid var(--line); border-radius: 28px; box-shadow: 0 22px 60px rgba(34, 36, 29, .07); }
+.policy-card h1 { margin: 0 0 24px; font-size: clamp(42px, 7vw, 72px); line-height: .95; letter-spacing: -4px; }
+.policy-lede { margin: 0 0 48px; max-width: 680px; color: var(--muted); font-family: Georgia, serif; font-size: 20px; line-height: 1.55; }
+.policy-card section { padding: 28px 0; border-top: 1px solid var(--line); }
+.policy-card section h2 { margin: 0 0 10px; font-size: 19px; letter-spacing: -.4px; }
+.policy-card section p { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.7; }
+.policy-back { display: inline-block; margin: 25px 4px 0; border-bottom: 1px solid; font-size: 12px; font-weight: 800; }
 
 @media (max-width: 1050px) {
   .hero { grid-template-columns: 1fr .85fr; gap: 45px; padding-left: 0; padding-right: 0; }

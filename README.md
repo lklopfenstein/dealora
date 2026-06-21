@@ -46,6 +46,10 @@ npm run build
 
 Edit the `SOURCES` array in `scripts/ingest-deals.ts`. Sources must expose a public RSS or Atom feed and should link back to the original post. The importer accepts common RSS, Atom, media, enclosure, and HTML-image fields.
 
+## Automatic monetization
+
+Dealora includes dormant, environment-controlled integrations for Sovrn Commerce and Skimlinks. No tracking script loads unless a provider and valid credential are configured. See [the monetization plan](docs/MONETIZATION.md) and `.env.example` for the recommended rollout and activation variables.
+
 ## Important notes
 
 Dealora is an index, not a retailer. Prices and availability can change, and visitors should confirm the final details at the linked source or merchant. Source content is reduced to short factual excerpts, with attribution and outbound links preserved.
