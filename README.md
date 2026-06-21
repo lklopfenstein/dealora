@@ -8,6 +8,7 @@ Dealora is a polished, zero-cost daily deal aggregator. It gathers public deal f
 
 - Imports public feeds from eight established deal and product publications.
 - Extracts price, original price, discount, merchant, image, category, and freshness.
+- Publishes only specific, exactly priced products with remotely verified images; generic sale and coupon roundups are rejected.
 - Scores each offer using recency, savings, source quality, price specificity, and deal language.
 - Deduplicates overlapping offers across sources.
 - Offers fast client-side search, categories, sorting, and browser-local bookmarks.

@@ -2,6 +2,7 @@ import { createHash } from "node:crypto";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { XMLParser } from "fast-xml-parser";
+import { isSpecificProductDeal } from "../src/lib/deal-quality";
 import type { Category, Deal, DealDataset } from "../src/types/deal";
 
 type FeedSource = {
@@ -49,11 +50,16 @@ function decodeEntities(value: string): string {
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
     .replace(/&amp;/g, "&")
-    .replace(/&#0*38;/g, "&")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&times;/g, "×")
+    .replace(/&mdash;/g, "—")
+    .replace(/&ndash;/g, "–")
     .replace(/&quot;/g, '"')
     .replace(/&#039;|&apos;/g, "'")
     .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">");
+    .replace(/&gt;/g, ">")
+    .replace(/&#x([0-9a-f]+);/gi, (_, code: string) => String.fromCodePoint(Number.parseInt(code, 16)))
+    .replace(/&#(\d+);/g, (_, code: string) => String.fromCodePoint(Number.parseInt(code, 10)));
 }
 
 function stripHtml(value: string): string {
@@ -88,32 +94,91 @@ function extractImage(item: Record<string, unknown>, html: string, base: string)
   if (htmlMatch) candidates.push(htmlMatch);
   for (const candidate of candidates) {
     const url = safeUrl(asText(candidate), base);
-    if (url && !/pixel|tracking|spacer|logo/i.test(url)) return url;
+    if (url && !/pixel|tracking|spacer|logo|avatar|icon/i.test(url)) {
+      const improved = new URL(url);
+      if (improved.hostname === "d.dlnws.com") {
+        improved.searchParams.set("w", "900");
+        improved.searchParams.delete("h");
+      }
+      return improved.toString();
+    }
   }
   return null;
 }
 
 function extractPrices(title: string, description: string) {
   const text = `${title} ${description.slice(0, 400)}`;
-  const values = [...text.matchAll(/\$\s?([0-9][0-9,]*(?:\.\d{1,2})?)/g)]
-    .map((match) => Number(match[1].replace(/,/g, "")))
-    .filter((value) => value > 0 && value < 100000);
   const percent = [...text.matchAll(/(?:save\s+|up to\s+|\b)(\d{1,2})%\s*off/gi)]
     .map((match) => Number(match[1]))
     .find((value) => value >= 5 && value <= 95);
-  const titleValues = [...title.matchAll(/\$\s?([0-9][0-9,]*(?:\.\d{1,2})?)/g)].map((match) => Number(match[1].replace(/,/g, "")));
-  const price = titleValues.length ? (titleValues.at(-1) ?? null) : (values.at(-1) ?? null);
+  const isCurrentPrice = (match: RegExpMatchArray, sourceText: string) => {
+    const start = match.index ?? 0;
+    const before = sourceText.slice(Math.max(0, start - 24), start);
+    const after = sourceText.slice(start + match[0].length, start + match[0].length + 24);
+    if (/\b(?:off|save|saves|saved|saving|savings|shed|sheds|cut|cuts|credit|worth|rebate)\s*$/i.test(before)) return false;
+    if (/\bshipping\s+(?:on|over|from)\s*$/i.test(before)) return false;
+    if (/^\s*(?:off|discount|coupon|credit|savings|rebate|value)/i.test(after)) return false;
+    if (/^\s*(?:each|ea\.?\b|per\b)/i.test(after)) return false;
+    if (/^\s*\+(?!\s*free)/i.test(after)) return false;
+    return true;
+  };
+  const titleMatches = [...title.matchAll(/\$\s?([0-9][0-9,]*(?:\.\d{1,2})?)/g)].filter((match) => isCurrentPrice(match, title));
+  const strongTitleMatches = [...title.matchAll(/(?:for|at|now|only|from|starting at|starting from|drops? to|down to|down at|to just|=)\s*[*_]*\s*(\$\s?([0-9][0-9,]*(?:\.\d{1,2})?))/gi)]
+    .filter((match) => {
+      const synthetic = [match[1], match[2]] as unknown as RegExpMatchArray;
+      synthetic.index = (match.index ?? 0) + match[0].indexOf(match[1]);
+      return isCurrentPrice(synthetic, title);
+    });
+  const contextualMatches = [...text.matchAll(/(?:for|at|now|only|from|starting at|starting from|drops? to|down to|down at|to just|=)\s*[*_]*\s*(\$\s?([0-9][0-9,]*(?:\.\d{1,2})?))/gi)]
+    .filter((match) => {
+      const synthetic = [match[1], match[2]] as unknown as RegExpMatchArray;
+      synthetic.index = (match.index ?? 0) + match[0].indexOf(match[1]);
+      return isCurrentPrice(synthetic, text);
+    });
+  const strongTitlePrice = strongTitleMatches.at(-1)?.[2];
+  const titlePrice = titleMatches.at(-1)?.[1];
+  const contextualPrice = contextualMatches.at(-1)?.[2];
+  const finalEqualsPrice = [...text.matchAll(/=\s*[*_]*\s*\$\s?([0-9][0-9,]*(?:\.\d{1,2})?)/g)].at(-1)?.[1];
+  const contextualTitleMatch = contextualMatches.map((match) => match[2]).find((value) => titleMatches.some((titleMatch) => titleMatch[1] === value));
+  const parsedPrice = finalEqualsPrice ?? strongTitlePrice ?? contextualTitleMatch ?? titlePrice ?? contextualPrice;
+  const price = parsedPrice ? Number(parsedPrice.replace(/,/g, "")) : null;
   const explicitOriginal = [
     /(?:was|regularly|reg\.?|list price|normally)\s*\$\s?([0-9][0-9,]*(?:\.\d{1,2})?)/i,
     /(?:on sale )?for\s*\$\s?([0-9][0-9,]*(?:\.\d{1,2})?)\s*[-–]\s*(?:\$|\d+%)/i,
   ]
     .map((pattern) => text.match(pattern)?.[1])
     .find(Boolean);
+  const titleValues = titleMatches.map((match) => Number(match[1].replace(/,/g, "")));
   const titleOriginal = titleValues.length >= 2 && titleValues[0] > (price ?? 0) * 1.08 ? titleValues[0] : null;
   const parsedOriginal = explicitOriginal ? Number(explicitOriginal.replace(/,/g, "")) : null;
   const originalPrice = price !== null && parsedOriginal && parsedOriginal > price * 1.08 ? parsedOriginal : titleOriginal;
   const discountPercent = percent ?? (price && originalPrice ? Math.round(((originalPrice - price) / originalPrice) * 100) : null);
   return { price, originalPrice, discountPercent };
+}
+
+async function imageIsUsable(imageUrl: string) {
+  try {
+    const response = await fetch(imageUrl, {
+      headers: { Accept: "image/avif,image/webp,image/png,image/jpeg,image/*", Range: "bytes=0-2047", "User-Agent": "Mozilla/5.0 DealoraImageCheck/1.0" },
+      redirect: "follow",
+      signal: AbortSignal.timeout(8_000),
+    });
+    const contentType = response.headers.get("content-type") ?? "";
+    await response.body?.cancel();
+    return response.ok && contentType.toLowerCase().startsWith("image/");
+  } catch {
+    return false;
+  }
+}
+
+async function keepDealsWithUsableImages(deals: Deal[]) {
+  const verified: Deal[] = [];
+  for (let index = 0; index < deals.length; index += 12) {
+    const batch = deals.slice(index, index + 12);
+    const checks = await Promise.all(batch.map((deal) => imageIsUsable(deal.imageUrl!)));
+    batch.forEach((deal, dealIndex) => { if (checks[dealIndex]) verified.push(deal); });
+  }
+  return verified;
 }
 
 function categoryFor(text: string): Category {
@@ -168,12 +233,14 @@ function normalizeItem(item: Record<string, unknown>, source: FeedSource): Deal 
   const parsedDate = new Date(asText(item.pubDate ?? item.published ?? item.updated ?? item.date));
   const publishedAt = Number.isNaN(parsedDate.getTime()) ? new Date().toISOString() : parsedDate.toISOString();
   const { price, originalPrice, discountPercent } = extractPrices(title, summary);
+  const imageUrl = extractImage(item, `${content} ${descriptionHtml}`, source.homepage);
+  if (!isSpecificProductDeal({ title, price, imageUrl })) return null;
   const score = scoreDeal(title, summary, publishedAt, source.trust, discountPercent);
   const allText = `${title} ${summary}`;
   return {
     id: fingerprint(`${source.name}:${asText(item.guid) || url}`), title,
     summary: summary || "A fresh offer worth a closer look. Check the source for current pricing and availability.",
-    url, imageUrl: extractImage(item, `${content} ${descriptionHtml}`, source.homepage), source: source.name,
+    url, imageUrl, source: source.name,
     sourceUrl: source.homepage, merchant: merchantFor(allText, source.name), category: categoryFor(allText),
     price, originalPrice, discountPercent, publishedAt, score, badge: badgeFor(score, discountPercent, publishedAt),
   };
@@ -203,7 +270,7 @@ function dedupeAndRank(deals: Deal[]): Deal[] {
       seen.add(titleKey);
       return true;
     })
-    .slice(0, 96);
+    .slice(0, 140);
 }
 
 async function readPrevious(): Promise<DealDataset | null> {
@@ -231,7 +298,10 @@ async function main() {
   const recentPrevious = (previous?.deals ?? []).filter(
     (deal) => failedSources.has(deal.source) && Date.now() - new Date(deal.publishedAt).getTime() < 72 * 3_600_000,
   );
-  const deals = dedupeAndRank([...freshDeals, ...recentPrevious]);
+  const candidates = dedupeAndRank([...freshDeals, ...recentPrevious])
+    .filter((deal) => isSpecificProductDeal(deal));
+  const deals = (await keepDealsWithUsableImages(candidates)).slice(0, 96);
+  console.log(`✓ Product and image gate: ${deals.length}/${candidates.length} verified`);
   if (deals.length < 12) throw new Error(`Only ${deals.length} deals were collected; refusing to overwrite a healthy dataset.`);
   const dataset: DealDataset = {
     generatedAt: new Date().toISOString(), sourceCount: sourceHealth.filter((source) => source.status === "ok").length,

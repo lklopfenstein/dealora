@@ -9,6 +9,7 @@
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
     "ingest": "tsx scripts/ingest-deals.ts",
+    "validate:data": "tsx scripts/validate-deals.ts",
     "refresh": "npm run ingest && npm run build"
   },
   "dependencies": {
