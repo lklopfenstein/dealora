@@ -1,0 +1,38 @@
+name: Refresh daily deals
+
+on:
+  schedule:
+    - cron: "17 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-deals
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run ingest
+      - run: npm run typecheck
+      - name: Commit fresh dataset
+        run: |
+          if git diff --quiet -- src/data/deals.json; then
+            echo "No deal changes today."
+            exit 0
+          fi
+          git config user.name "dealora-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/deals.json
+          git commit -m "data: refresh daily deals"
+          git push
