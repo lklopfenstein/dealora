@@ -22,6 +22,30 @@ const SOURCES: FeedSource[] = [
   { name: "Android Authority Deals", url: "https://www.androidauthority.com/deals/feed/", homepage: "https://www.androidauthority.com/deals", trust: 13, maxItems: 14 },
   { name: "Digital Trends Deals", url: "https://www.digitaltrends.com/dtdeals/feed/", homepage: "https://www.digitaltrends.com/dtdeals/", trust: 13, maxItems: 14 },
   { name: "Laptop Mag Deals", url: "https://www.laptopmag.com/feeds/tag/deals", homepage: "https://www.laptopmag.com/deals", trust: 12, maxItems: 12 },
+  { name: "TechRadar Deals", url: "https://www.techradar.com/feeds/tag/deals", homepage: "https://www.techradar.com/deals", trust: 13, maxItems: 14 },
+  { name: "Tom's Hardware Deals", url: "https://www.tomshardware.com/feeds/tag/deals", homepage: "https://www.tomshardware.com/deals", trust: 13, maxItems: 14 },
+  { name: "PC Gamer Deals", url: "https://www.pcgamer.com/feeds/tag/deals", homepage: "https://www.pcgamer.com/hardware/deals/", trust: 12, maxItems: 12 },
+  { name: "GamesRadar Deals", url: "https://www.gamesradar.com/feeds/tag/deals", homepage: "https://www.gamesradar.com/deals/", trust: 12, maxItems: 12 },
+  { name: "Windows Central Deals", url: "https://www.windowscentral.com/feeds/tag/deals", homepage: "https://www.windowscentral.com/deals", trust: 13, maxItems: 14 },
+  { name: "What Hi-Fi? Deals", url: "https://www.whathifi.com/feeds/tag/deals", homepage: "https://www.whathifi.com/deals", trust: 13, maxItems: 12 },
+  { name: "T3 Deals", url: "https://www.t3.com/feeds/tag/deals", homepage: "https://www.t3.com/deals", trust: 11, maxItems: 10 },
+  { name: "Creative Bloq Deals", url: "https://www.creativebloq.com/feeds/tag/deals", homepage: "https://www.creativebloq.com/deals", trust: 11, maxItems: 10 },
+  { name: "Live Science Deals", url: "https://www.livescience.com/feeds/tag/deals", homepage: "https://www.livescience.com/deals", trust: 11, maxItems: 10 },
+  { name: "Space.com Deals", url: "https://www.space.com/feeds/tag/deals", homepage: "https://www.space.com/deals", trust: 12, maxItems: 10 },
+  { name: "Cycling Weekly Deals", url: "https://www.cyclingweekly.com/feeds/tag/deals", homepage: "https://www.cyclingweekly.com/deals", trust: 11, maxItems: 10 },
+  { name: "Golf Monthly Deals", url: "https://www.golfmonthly.com/feeds/tag/deals", homepage: "https://www.golfmonthly.com/deals", trust: 11, maxItems: 10 },
+  { name: "Real Homes Deals", url: "https://www.realhomes.com/feeds/tag/deals", homepage: "https://www.realhomes.com/deals", trust: 11, maxItems: 10 },
+  { name: "Top Ten Reviews Deals", url: "https://www.toptenreviews.com/feeds/tag/deals", homepage: "https://www.toptenreviews.com/deals", trust: 11, maxItems: 10 },
+  { name: "MusicRadar Deals", url: "https://www.musicradar.com/feeds/tag/deals", homepage: "https://www.musicradar.com/deals", trust: 12, maxItems: 10 },
+  { name: "Guitar World Deals", url: "https://www.guitarworld.com/feeds/tag/deals", homepage: "https://www.guitarworld.com/deals", trust: 12, maxItems: 10 },
+  { name: "Advnture Deals", url: "https://www.advnture.com/feeds/tag/deals", homepage: "https://www.advnture.com/deals", trust: 11, maxItems: 10 },
+  { name: "Digital Camera World Deals", url: "https://www.digitalcameraworld.com/feeds/tag/deals", homepage: "https://www.digitalcameraworld.com/deals", trust: 12, maxItems: 10 },
+  { name: "BGR Deals", url: "https://bgr.com/deals/feed/", homepage: "https://bgr.com/deals/", trust: 11, maxItems: 10 },
+  { name: "Cult of Mac Deals", url: "https://www.cultofmac.com/category/deals/feed", homepage: "https://www.cultofmac.com/category/deals", trust: 11, maxItems: 10 },
+  { name: "Engadget Deals", url: "https://www.engadget.com/rss.xml?tags=deals", homepage: "https://www.engadget.com/deals/", trust: 13, maxItems: 12 },
+  { name: "Macworld Deals", url: "https://www.macworld.com/deals/feed", homepage: "https://www.macworld.com/deals", trust: 12, maxItems: 12 },
+  { name: "PCWorld Deals", url: "https://www.pcworld.com/deals/feed", homepage: "https://www.pcworld.com/deals", trust: 12, maxItems: 12 },
+  { name: "TechHive Deals", url: "https://www.techhive.com/deals/feed", homepage: "https://www.techhive.com/deals", trust: 12, maxItems: 12 },
 ];
 
 const parser = new XMLParser({
@@ -115,9 +139,10 @@ function extractPrices(title: string, description: string) {
     const start = match.index ?? 0;
     const before = sourceText.slice(Math.max(0, start - 24), start);
     const after = sourceText.slice(start + match[0].length, start + match[0].length + 24);
-    if (/\b(?:off|save|saves|saved|saving|savings|shed|sheds|cut|cuts|credit|worth|rebate)\s*$/i.test(before)) return false;
+    if (/\b(?:off|save|saves|saved|saving|savings|shed|sheds|cut|cuts|credit|worth|rebate)(?:\s+(?:up to|over|nearly|about))?\s*$/i.test(before)) return false;
+    if (/\b(?:discounted|reduced)\s+by(?:\s+(?:over|up to))?\s*$/i.test(before)) return false;
     if (/\bshipping\s+(?:on|over|from)\s*$/i.test(before)) return false;
-    if (/^\s*(?:off|discount|coupon|credit|savings|rebate|value)/i.test(after)) return false;
+    if (/^\s*(?:off|discount|coupon|credit|savings?|rebate|reduction|value|knocked|cheaper)/i.test(after)) return false;
     if (/^\s*(?:each|ea\.?\b|per\b)/i.test(after)) return false;
     if (/^\s*\+(?!\s*free)/i.test(after)) return false;
     return true;
@@ -243,6 +268,7 @@ function normalizeItem(item: Record<string, unknown>, source: FeedSource): Deal 
     url, imageUrl, source: source.name,
     sourceUrl: source.homepage, merchant: merchantFor(allText, source.name), category: categoryFor(allText),
     price, originalPrice, discountPercent, publishedAt, score, badge: badgeFor(score, discountPercent, publishedAt),
+    corroborationCount: 1, alsoFoundAt: [{ source: source.name, url }],
   };
 }
 
@@ -260,17 +286,80 @@ async function fetchSource(source: FeedSource): Promise<Deal[]> {
   return items.slice(0, source.maxItems).map((item) => normalizeItem(item, source)).filter((deal): deal is Deal => Boolean(deal));
 }
 
-function dedupeAndRank(deals: Deal[]): Deal[] {
-  const seen = new Set<string>();
-  return deals
-    .sort((a, b) => b.score - a.score || new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-    .filter((deal) => {
-      const titleKey = deal.title.toLowerCase().replace(/\$\s?[0-9,.]+|\b(deal|sale|off|free shipping|at amazon|at ebay)\b/g, "").replace(/[^a-z0-9]+/g, " ").trim().split(" ").slice(0, 10).join(" ");
-      if (!titleKey || seen.has(titleKey)) return false;
-      seen.add(titleKey);
-      return true;
-    })
-    .slice(0, 140);
+const PRODUCT_STOP_WORDS = new Set([
+  "a", "an", "and", "at", "for", "from", "in", "is", "of", "on", "or", "the", "to", "via", "with",
+  "deal", "deals", "sale", "save", "off", "free", "shipping", "prime", "new", "just", "lowest", "price",
+  "amazon", "ebay", "walmart", "target", "best", "buy", "today", "now", "drops", "dropped",
+]);
+
+function productTokens(title: string) {
+  return new Set(
+    title.toLowerCase()
+      .replace(/\$\s?[0-9,.]+|\b\d{1,2}%\b/g, " ")
+      .replace(/[^a-z0-9]+/g, " ")
+      .split(" ")
+      .filter((token) => token.length > 1 && !PRODUCT_STOP_WORDS.has(token)),
+  );
+}
+
+function productSimilarity(first: Deal, second: Deal) {
+  const a = productTokens(first.title);
+  const b = productTokens(second.title);
+  const shared = [...a].filter((token) => b.has(token)).length;
+  if (shared < 3) return 0;
+  const union = new Set([...a, ...b]).size;
+  const jaccard = shared / Math.max(1, union);
+  const smallerCoverage = shared / Math.max(1, Math.min(a.size, b.size));
+  const priceRatio = Math.max(first.price!, second.price!) / Math.max(0.01, Math.min(first.price!, second.price!));
+  if (priceRatio > 1.35) return 0;
+  return jaccard * 0.55 + smallerCoverage * 0.45;
+}
+
+function clusterAndRank(deals: Deal[]) {
+  const clusters: Deal[] = [];
+  const sorted = [...deals].sort((a, b) => b.score - a.score || new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+
+  for (const deal of sorted) {
+    const match = clusters.find((candidate) => productSimilarity(candidate, deal) >= 0.78);
+    if (!match) {
+      clusters.push({ ...deal, corroborationCount: 1, alsoFoundAt: [{ source: deal.source, url: deal.url }] });
+      continue;
+    }
+
+    const previousBonus = Math.min(9, (match.corroborationCount - 1) * 3);
+    if (!match.alsoFoundAt.some((item) => item.source === deal.source)) {
+      match.alsoFoundAt.push({ source: deal.source, url: deal.url });
+    }
+    match.corroborationCount = match.alsoFoundAt.length;
+    const corroborationBonus = Math.min(9, (match.corroborationCount - 1) * 3);
+    match.score = Math.min(99, Math.max(match.score - previousBonus, deal.score) + corroborationBonus);
+    match.badge = badgeFor(match.score, match.discountPercent, match.publishedAt);
+  }
+
+  return clusters.sort((a, b) => b.score - a.score || b.corroborationCount - a.corroborationCount || new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+}
+
+function diversifySources(deals: Deal[], limit: number) {
+  const contributingSources = new Set(deals.map((deal) => deal.source)).size;
+  const softCap = Math.max(5, Math.ceil((limit / Math.max(1, contributingSources)) * 1.8));
+  const selected: Deal[] = [];
+  const deferred: Deal[] = [];
+  const sourceCounts = new Map<string, number>();
+
+  for (const deal of deals) {
+    const count = sourceCounts.get(deal.source) ?? 0;
+    if (count < softCap && selected.length < limit) {
+      selected.push(deal);
+      sourceCounts.set(deal.source, count + 1);
+    } else {
+      deferred.push(deal);
+    }
+  }
+  for (const deal of deferred) {
+    if (selected.length >= limit) break;
+    selected.push(deal);
+  }
+  return selected.sort((a, b) => b.score - a.score || b.corroborationCount - a.corroborationCount);
 }
 
 async function readPrevious(): Promise<DealDataset | null> {
@@ -298,14 +387,22 @@ async function main() {
   const recentPrevious = (previous?.deals ?? []).filter(
     (deal) => failedSources.has(deal.source) && Date.now() - new Date(deal.publishedAt).getTime() < 72 * 3_600_000,
   );
-  const candidates = dedupeAndRank([...freshDeals, ...recentPrevious])
-    .filter((deal) => isSpecificProductDeal(deal));
-  const deals = (await keepDealsWithUsableImages(candidates)).slice(0, 96);
-  console.log(`✓ Product and image gate: ${deals.length}/${candidates.length} verified`);
+  const rawCandidates = [...freshDeals, ...recentPrevious].filter((deal) => isSpecificProductDeal(deal));
+  const imageVerified = await keepDealsWithUsableImages(rawCandidates);
+  const clustered = clusterAndRank(imageVerified);
+  const deals = diversifySources(clustered, 120);
+  console.log(`✓ Product and image gate: ${imageVerified.length}/${rawCandidates.length} verified`);
+  console.log(`✓ Intelligence pass: merged ${imageVerified.length - clustered.length} duplicates into ${clustered.length} product clusters`);
   if (deals.length < 12) throw new Error(`Only ${deals.length} deals were collected; refusing to overwrite a healthy dataset.`);
   const dataset: DealDataset = {
     generatedAt: new Date().toISOString(), sourceCount: sourceHealth.filter((source) => source.status === "ok").length,
     itemCount: deals.length, deals, sourceHealth,
+    intelligence: {
+      rawProductCandidates: rawCandidates.length,
+      imageVerifiedCandidates: imageVerified.length,
+      duplicateClustersMerged: imageVerified.length - clustered.length,
+      contributingSources: new Set(deals.flatMap((deal) => deal.alsoFoundAt.map((item) => item.source))).size,
+    },
   };
   await mkdir(path.dirname(outputPath), { recursive: true });
   await writeFile(outputPath, `${JSON.stringify(dataset, null, 2)}\n`, "utf8");

@@ -1,6 +1,6 @@
 "use client";
 
-import { ArrowUpRight, Bookmark, Clock3, Flame } from "lucide-react";
+import { ArrowUpRight, BadgeCheck, Bookmark, Clock3, Flame } from "lucide-react";
 import { DealImage } from "./deal-image";
 import type { Deal } from "@/types/deal";
 
@@ -39,6 +39,7 @@ export function DealCard({ deal, generatedAt, saved, onSave, featured = false }:
         <div className="deal-meta">
           <span>{deal.merchant}</span><i />
           <span className="deal-age"><Clock3 size={13} />{ageLabel(deal.publishedAt, generatedAt)}</span>
+          {deal.corroborationCount > 1 && <span className="cross-check" title={`Also found by ${deal.alsoFoundAt.map((item) => item.source).join(", ")}`}><BadgeCheck size={13} />{deal.corroborationCount} sources</span>}
         </div>
         <h3>{deal.title}</h3>
         <p className="deal-summary">{deal.summary}</p>
@@ -57,7 +58,7 @@ export function DealCard({ deal, generatedAt, saved, onSave, featured = false }:
             See the deal <ArrowUpRight size={16} />
           </a>
         </div>
-        <p className="source-line">Found via <a href={deal.sourceUrl} target="_blank" rel="noopener noreferrer nofollow">{deal.source}</a></p>
+        <p className="source-line">{deal.corroborationCount > 1 ? "Best version via " : "Found via "}<a href={deal.sourceUrl} target="_blank" rel="noopener noreferrer nofollow">{deal.source}</a></p>
       </div>
     </article>
   );

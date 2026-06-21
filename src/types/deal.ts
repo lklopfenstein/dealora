@@ -26,6 +26,8 @@ export type Deal = {
   publishedAt: string;
   score: number;
   badge: "Editor's pick" | "Price drop" | "Fresh find" | "Worth a look";
+  corroborationCount: number;
+  alsoFoundAt: Array<{ source: string; url: string }>;
 };
 
 export type DealDataset = {
@@ -38,4 +40,10 @@ export type DealDataset = {
     status: "ok" | "error";
     itemCount: number;
   }>;
+  intelligence: {
+    rawProductCandidates: number;
+    imageVerifiedCandidates: number;
+    duplicateClustersMerged: number;
+    contributingSources: number;
+  };
 };

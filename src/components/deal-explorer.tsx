@@ -77,9 +77,9 @@ export function DealExplorer({ dataset }: { dataset: DealDataset }) {
             {query && <button onClick={() => { setQuery(""); setVisible(18); }} aria-label="Clear search"><X size={17} /></button>}
           </label>
           <div className="trust-row">
-            <span><Check size={14} /> {dataset.sourceCount} live sources</span>
-            <span><Check size={14} /> Refreshed daily</span>
-            <span><Check size={14} /> No paywall</span>
+            <span><Check size={14} /> {dataset.sourceCount} sources scanned daily</span>
+            <span><Check size={14} /> {dataset.itemCount} image-verified products</span>
+            <span><Check size={14} /> Smart duplicate screening</span>
           </div>
         </div>
         <div className="hero-feature" id="today">
@@ -101,7 +101,7 @@ export function DealExplorer({ dataset }: { dataset: DealDataset }) {
       <section className="browse-section" id="browse">
         <div className="section-heading">
           <div><p className="kicker">THE GOOD STUFF</p><h2>{savedOnly ? "Your saved finds" : query ? `Results for “${query}”` : "Today’s best finds"}</h2></div>
-          <p>{savedOnly ? "Your shortlist lives in this browser—simple and private." : <><strong className="commission-note">Dealora may earn from eligible purchases; your price doesn&apos;t change.</strong> Ranked by freshness, price clarity, source quality, and the size of the drop.</>}</p>
+          <p>{savedOnly ? "Your shortlist lives in this browser—simple and private." : <><strong className="commission-note">Dealora may earn from eligible purchases; your price doesn&apos;t change.</strong> Ranked by freshness, exact-price confidence, source quality, savings, and cross-source corroboration.</>}</p>
         </div>
 
         <div className="filter-bar">
@@ -142,7 +142,7 @@ export function DealExplorer({ dataset }: { dataset: DealDataset }) {
         <div className="footer-top">
           <div><a className="brand brand--footer" href="#top"><span className="brand-mark"><i /><i /></span><span>dealora</span></a><p>The internet&apos;s best prices.<br />One calm place.</p></div>
           <div><h4>Browse</h4>{CATEGORIES.slice(1).map((item) => <button key={item} onClick={() => { setCategory(item); setSavedOnly(false); setVisible(18); document.querySelector("#browse")?.scrollIntoView({ behavior: "smooth" }); }}>{item}</button>)}</div>
-          <div><h4>Live sources</h4>{dataset.sourceHealth.filter((source) => source.status === "ok").slice(0, 6).map((source) => <span key={source.name}>{source.name}</span>)}</div>
+          <div><h4>Live sources</h4>{dataset.sourceHealth.filter((source) => source.status === "ok").slice(0, 6).map((source) => <span key={source.name}>{source.name}</span>)}{dataset.sourceCount > 6 && <span>+ {dataset.sourceCount - 6} more checked daily</span>}</div>
           <div><h4>The small print</h4><p>Prices and availability can change. Always confirm details at the retailer. Dealora may earn from qualifying links, at no added cost to you.</p><a href="/privacy">Privacy & affiliate disclosure</a></div>
         </div>
         <div className="footer-bottom"><span>© {new Date().getUTCFullYear()} Dealora</span><span>Built to save time, not collect it.</span></div>

@@ -20,6 +20,9 @@ for (const deal of dataset.deals) {
 
 if (dataset.itemCount !== dataset.deals.length) failures.push(`itemCount is ${dataset.itemCount}, but data contains ${dataset.deals.length} deals`);
 if (dataset.deals.length < 12) failures.push(`catalog is too small: ${dataset.deals.length} deals`);
+if (dataset.sourceHealth.length < 32) failures.push(`source registry shrank below 32: ${dataset.sourceHealth.length}`);
+if (dataset.sourceCount < 24) failures.push(`too many sources are unhealthy: only ${dataset.sourceCount}/32 responded`);
+if (!dataset.intelligence || dataset.intelligence.imageVerifiedCandidates < dataset.deals.length) failures.push("intelligence metrics are missing or inconsistent");
 
 if (failures.length) {
   console.error(failures.join("\n"));
