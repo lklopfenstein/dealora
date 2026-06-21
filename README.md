@@ -22,6 +22,7 @@ Dealora is a polished, zero-cost daily deal aggregator. It gathers public deal f
 - **Data:** versioned JSON in the repository
 - **Database:** none
 - **Paid APIs:** none
+- **Traffic measurement:** Vercel Web Analytics (Hobby allowance)
 
 The scheduled workflow runs at 10:17 UTC each day. A changed dataset is committed to `main`; Vercel then builds the fresh static experience automatically.
 
