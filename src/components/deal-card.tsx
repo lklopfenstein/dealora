@@ -23,8 +23,24 @@ export function DealCard({ deal, generatedAt, saved, onSave, featured = false }:
   onSave: () => void;
   featured?: boolean;
 }) {
+  const openDeal = () => window.open(deal.url, "_blank", "noopener,noreferrer");
+
   return (
-    <article className={`deal-card${featured ? " deal-card--featured" : ""}`}>
+    <article
+      className={`deal-card${featured ? " deal-card--featured" : ""}`}
+      role="link"
+      tabIndex={0}
+      aria-label={`See deal: ${deal.title}`}
+      onClick={(event) => {
+        if ((event.target as HTMLElement).closest("a, button")) return;
+        openDeal();
+      }}
+      onKeyDown={(event) => {
+        if (event.target !== event.currentTarget || (event.key !== "Enter" && event.key !== " ")) return;
+        event.preventDefault();
+        openDeal();
+      }}
+    >
       <div className="deal-card__visual">
         <DealImage src={deal.imageUrl} alt="" category={deal.category} eager={featured} />
         <span className={`deal-badge deal-badge--${deal.badge.toLowerCase().replaceAll(" ", "-").replace("'", "")}`}>
