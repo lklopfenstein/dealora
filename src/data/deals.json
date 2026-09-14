@@ -1,941 +1,989 @@
 {
-  "generatedAt": "2026-09-13T14:24:20.352Z",
+  "generatedAt": "2026-09-14T16:22:44.213Z",
   "sourceCount": 30,
-  "itemCount": 91,
+  "itemCount": 78,
   "deals": [
     {
-      "id": "dba82f6104fb88",
-      "title": "Smart Display Phone Case for iPhone 16 Pro Max for $18 + free shipping w/ Prime",
-      "summary": "Anyone tired of cracking their screen open just to check the time or notifications will get some use out of the smart display panel on the back of this case, and at $18 it's exactly half the $36 list price. Apply coupon code \"NCVW",
-      "url": "https://www.dealnews.com/Smart-Display-Phone-Case-for-iPhone-16-Pro-Max-for-18-free-shipping-w-Prime/22142672.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1788536315-draftworks_img_3mhla1uanpilahdbcai.jpeg?w=900",
+      "id": "dff9994941a719",
+      "title": "CAMEL CROWN Men's Waterproof Ski Jacket w/ Detachable Hood & Fleece Lining (various) $24.99 + Free Shipping w/ Prime or on $35+",
+      "summary": "CAMEL CROWN DIRECT via Amazon [amazon.com] has *CAMEL CROWN Men's Waterproof Ski Jacket w/ Detachable Hood & Fleece Lining *(various) on sale for $49.99 - extra 50% off when you apply promo code...",
+      "url": "https://slickdeals.net/f/20013708-camel-crown-men-s-waterproof-ski-jacket-w-detachable-hood-fleece-lining-various-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/21592743.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Amazon",
+      "category": "Style",
+      "price": 24.99,
+      "originalPrice": null,
+      "discountPercent": 50,
+      "publishedAt": "2026-09-14T16:19:13.000Z",
+      "score": 92,
+      "badge": "Editor's pick",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013708-camel-crown-men-s-waterproof-ski-jacket-w-detachable-hood-fleece-lining-various-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "d0ad7a60ef41e4",
+      "title": "Score up to 20% savings on LEGO Star Wars SMART Play sets, like the Millennium Falcon at an $84 low, more from $32",
+      "summary": "Amazon is currently offering up to 20% on LEGO Star Wars SMART Play sets, like the SMART Play Millennium Falcon set down at $83.99 shipped. Normally $100 at full price, it dropped down to $95 mid-July before dipping lower to $94 b",
+      "url": "https://9to5toys.com/2026/09/14/lego-star-wars-smart-play-sets-millennium-falcon-84-low-more/",
+      "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/LEGO-Star-Wars-Smart-play-millennium-falcon.jpg?quality=82&strip=all&w=1200",
+      "source": "9to5Toys",
+      "sourceUrl": "https://9to5toys.com",
+      "merchant": "Amazon",
+      "category": "Everyday",
+      "price": 32,
+      "originalPrice": 100,
+      "discountPercent": 68,
+      "publishedAt": "2026-09-14T15:43:23.000Z",
+      "score": 92,
+      "badge": "Editor's pick",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "9to5Toys",
+          "url": "https://9to5toys.com/2026/09/14/lego-star-wars-smart-play-sets-millennium-falcon-84-low-more/"
+        }
+      ]
+    },
+    {
+      "id": "16442d5b712ffe",
+      "title": "Get ready for NFL season at Best Buy — save up to 51% on NFL Sunday Ticket and score big-screen TVs from $229",
+      "summary": "Upgrade and save money on your NFL viewing experience at Best Buy with up to 51% off on NFL Sunday Ticket and deals on big-screen TVs from $229.",
+      "url": "https://www.techradar.com/televisions/get-ready-for-nfl-season-at-best-buy-save-up-to-51-percent-on-nfl-sunday-ticket-and-score-big-screen-tvs-from-usd229",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/uAMoNJPNvWZYq9Pc3LgnpL-1280-80.jpg",
+      "source": "TechRadar Deals",
+      "sourceUrl": "https://www.techradar.com/deals",
+      "merchant": "Best Buy",
+      "category": "Everyday",
+      "price": 229,
+      "originalPrice": null,
+      "discountPercent": 51,
+      "publishedAt": "2026-09-14T15:50:01.000Z",
+      "score": 91,
+      "badge": "Editor's pick",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "TechRadar Deals",
+          "url": "https://www.techradar.com/televisions/get-ready-for-nfl-season-at-best-buy-save-up-to-51-percent-on-nfl-sunday-ticket-and-score-big-screen-tvs-from-usd229"
+        }
+      ]
+    },
+    {
+      "id": "280f16da71af77",
+      "title": "Aspen Snowmass (Aspen Mountain, Highlands, Buttermilk & Snowmass) 80th Anniversary Ski Lift Tickets $80 on Dec 12 & 13; $3.75 on Dec 14 Only *Limited Quantity*",
+      "summary": "Limited quantity and expected to sell out fast. Celebrate 80 years of Aspen Mountain. Lift tickets across all 4 mountains are $80 on December 12–13, and $3.75 on December 14 (opening day price...",
+      "url": "https://slickdeals.net/f/20013729-aspen-snowmass-aspen-mountain-highlands-buttermilk-snowmass-80th-anniversary-ski-lift-tickets-80-on-dec-12-13-3-75-on-dec-14-only-limited-quantity?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/1/7/8/1/9/300x300/21593313.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Slickdeals",
+      "category": "Everyday",
+      "price": 3.75,
+      "originalPrice": 80,
+      "discountPercent": 95,
+      "publishedAt": "2026-09-14T16:20:44.000Z",
+      "score": 87,
+      "badge": "Editor's pick",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013729-aspen-snowmass-aspen-mountain-highlands-buttermilk-snowmass-80th-anniversary-ski-lift-tickets-80-on-dec-12-13-3-75-on-dec-14-only-limited-quantity?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "590842c903753f",
+      "title": "Run Windows 11 Pro on your Mac through Parallels or Boot Camp for $10",
+      "summary": "TL;DR: Windows 11 Pro runs inside Parallels Desktop, VMware Fusion, or Boot Camp on a Mac, complete with BitLocker, Hyper-V, and Azure AD for business use, and a lifetime license is on sale for $9.97 (reg. $199.00) through Septemb",
+      "url": "https://www.pcworld.com/article/3233587/run-windows-11-pro-on-your-mac-through-parallels-or-boot-camp-for-10.html",
+      "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/09/3233587-0-01041600-1789372870-Windows-11-Pro.jpg?quality=50&strip=all",
+      "source": "PCWorld Deals",
+      "sourceUrl": "https://www.pcworld.com/deals",
+      "merchant": "PCWorld Deals",
+      "category": "Everyday",
+      "price": 10,
+      "originalPrice": 199,
+      "discountPercent": 95,
+      "publishedAt": "2026-09-14T08:00:00.000Z",
+      "score": 85,
+      "badge": "Editor's pick",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "PCWorld Deals",
+          "url": "https://www.pcworld.com/article/3233587/run-windows-11-pro-on-your-mac-through-parallels-or-boot-camp-for-10.html"
+        }
+      ]
+    },
+    {
+      "id": "a7c8f993828661",
+      "title": "2-Count Temprium 2\" 6-Cube Silicone Whiskey Ice Trays w/ Lids (Black) $4.99 ($2.50 each) + Free Shipping w/ Prime or on $35+",
+      "summary": "Temprium via Amazon [amazon.com] has *2-Count Temprium 2\" 6-Cube Silicone Whiskey Ice Trays w/ Lids (Black) *on sale for $6.99 - $2.00 off when you apply promo code T1F4OGDF at checkout = *$4.99...",
+      "url": "https://slickdeals.net/f/20013687-2-count-temprium-2-6-cube-silicone-whiskey-ice-trays-w-lids-black-4-99-2-50-each-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/21593478.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Amazon",
+      "category": "Everyday",
+      "price": 4.99,
+      "originalPrice": 6.99,
+      "discountPercent": 29,
+      "publishedAt": "2026-09-14T16:15:22.000Z",
+      "score": 81,
+      "badge": "Price drop",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013687-2-count-temprium-2-6-cube-silicone-whiskey-ice-trays-w-lids-black-4-99-2-50-each-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "4a3930894e3af8",
+      "title": "(Refurbished) EcoFlow River 3 Plus 286Wh Portable Power Station Wireless Boost Combo & 5000mAh Power Bank $179 + Free Shipping",
+      "summary": "EcoFlow Solar Store via eBay [ebay.com] has *(Certified Refurbished) EcoFlow River 3 Plus 286Wh Portable Power Station w/ Wireless Boost Combo & 5000mAh Power Bank* on sale for $223.75 - $44.75 off...",
+      "url": "https://slickdeals.net/f/20013720-refurbished-ecoflow-river-3-plus-286wh-portable-power-station-wireless-boost-combo-5000mah-power-bank-179-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/21593568.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "eBay",
+      "category": "Everyday",
+      "price": 179,
+      "originalPrice": 223.75,
+      "discountPercent": 20,
+      "publishedAt": "2026-09-14T16:19:34.000Z",
+      "score": 76,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013720-refurbished-ecoflow-river-3-plus-286wh-portable-power-station-wireless-boost-combo-5000mah-power-bank-179-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "ffbfe90c99b2d3",
+      "title": "This highly rated Roku TV projector is 32% off, matching the record-low price",
+      "summary": "Aurzen's Roku TV D1R Cube projector is down to $169.96, matching its all-time low with built-in Roku TV and native 1080p.",
+      "url": "https://www.androidauthority.com/aurzen-roku-tv-d1r-cube-smart-outdoor-projector-deal-3711004/",
+      "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/Aurzen-Roku-TV-Smart-Projector-with-Remote.jpg",
+      "source": "Android Authority Deals",
+      "sourceUrl": "https://www.androidauthority.com/deals",
+      "merchant": "Android Authority Deals",
+      "category": "Tech",
+      "price": 169.96,
+      "originalPrice": null,
+      "discountPercent": 32,
+      "publishedAt": "2026-09-14T15:29:30.000Z",
+      "score": 73,
+      "badge": "Price drop",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Android Authority Deals",
+          "url": "https://www.androidauthority.com/aurzen-roku-tv-d1r-cube-smart-outdoor-projector-deal-3711004/"
+        }
+      ]
+    },
+    {
+      "id": "0531589fa16035",
+      "title": "UPlee GS3 48V 14\" Folding Electric Bike for $153 + free shipping",
+      "summary": "Using promo code \"23USAFF\" brings this UPlee GS3 folding electric bike down to $153, compared to the $210 price you'd pay at Walmart. It ships from a U.S. warehouse for free. The coupon ends September 20. Buy Now at AliExpress Fea",
+      "url": "https://www.dealnews.com/UPlee-GS3-48-V-14-Folding-Electric-Bike-for-153-free-shipping/22180970.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789402466-scb223b3fbd454e4c8d6dc2945fe8e0e4t-jpg_960x960q75-jpg.avif?w=900",
       "source": "DealNews",
       "sourceUrl": "https://www.dealnews.com",
-      "merchant": "DealNews",
-      "category": "Tech",
-      "price": 18,
+      "merchant": "Walmart",
+      "category": "Everyday",
+      "price": 153,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T13:48:18.000Z",
+      "publishedAt": "2026-09-14T16:14:36.000Z",
       "score": 66,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "DealNews",
-          "url": "https://www.dealnews.com/Smart-Display-Phone-Case-for-iPhone-16-Pro-Max-for-18-free-shipping-w-Prime/22142672.html?iref=rss"
+          "url": "https://www.dealnews.com/UPlee-GS3-48-V-14-Folding-Electric-Bike-for-153-free-shipping/22180970.html?iref=rss"
         }
       ]
     },
     {
-      "id": "5b17c91eb86fac",
-      "title": "5 Pack ASHGOOB 2 Inch Low Profile Office Chair Casters 650 lbs(Grey) $9.99 + Free S&H w/ Prime or $35+",
-      "summary": "ZhengXuan Metal via Amazon.com has 2 Inch Low Profile Office Chair Casters 650 lbs, Dual-Wheel TPR Rubber Wheels with Electrophoretic Coating Steel Bracket, Silent Non-Scratching for Hardwood Floors,...",
-      "url": "https://slickdeals.net/f/20008701-5-pack-ashgoob-2-inch-low-profile-office-chair-casters-650-lbs-grey-9-99-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21581730.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 9.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T14:18:52.000Z",
-      "score": 65,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008701-5-pack-ashgoob-2-inch-low-profile-office-chair-casters-650-lbs-grey-9-99-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "ee2932d740157d",
-      "title": "Prime: ROLOVE Vanity Mirror with Lights 12.6\"x15\" LED Makeup Mirror with Lights Smart Touch Control 3 Color Dimmable White $23.09 + Free Shipping",
-      "summary": "Prime: *ROLOVE Vanity Mirror* with Lights 12.6\"x15\" LED Makeup Mirror with Lights Smart Touch Control 3 Color Dimmable White $23.09 + Free Shipping ROLOVE via Amazon has ROLOVE Vanity Mirror with...",
-      "url": "https://slickdeals.net/f/20008698-prime-rolove-vanity-mirror-with-lights-12-6-x15-led-makeup-mirror-with-lights-smart-touch-control-3-color-dimmable-white-23-09-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/21581709.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 23.09,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T14:17:09.000Z",
-      "score": 65,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008698-prime-rolove-vanity-mirror-with-lights-12-6-x15-led-makeup-mirror-with-lights-smart-touch-control-3-color-dimmable-white-23-09-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "7cd9870f09f20c",
-      "title": "Lucky Charms Gluten Free Cereal with Marshmallows, Family Size, 18.6 oz $3.19 or less",
-      "summary": "Clip the 15 percent off coupon https://www.amazon.com/Lucky-Char..._cp_i&th=1",
-      "url": "https://slickdeals.net/f/20008623-lucky-charms-gluten-free-cereal-with-marshmallows-family-size-18-6-oz-3-19-or-less?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/21581595.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 3.19,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:58:45.000Z",
-      "score": 65,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008623-lucky-charms-gluten-free-cereal-with-marshmallows-family-size-18-6-oz-3-19-or-less?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "fb17dd14b15acb",
-      "title": "Radio Flyer UPS Delivery Truck Steel & Plastic Ride-On Pedal Toy $24.99 + Free Store Pickup at Target or Free Shipping on $35+",
-      "summary": "Target [target.com] has *Radio Flyer UPS Delivery Truck Steel & Plastic Ride-On Pedal Toy* on sale for *$24.99*. Select *free store pickup* where available. Otherwise, shipping is free on orders...",
-      "url": "https://slickdeals.net/f/20008587-radio-flyer-ups-delivery-truck-steel-plastic-ride-on-pedal-toy-24-99-free-store-pickup-at-target-or-free-shipping-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/21581556.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Target",
-      "category": "Everyday",
-      "price": 24.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:46:11.000Z",
-      "score": 65,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008587-radio-flyer-ups-delivery-truck-steel-plastic-ride-on-pedal-toy-24-99-free-store-pickup-at-target-or-free-shipping-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "824bdda82d8022",
-      "title": "Little Tikes Toddlers' Spiralin' Seas Waterpark Educational Water Play Table Set $24.99 + Free Shipping w/ Prime or on $35+",
-      "summary": "Amazon [amazon.com] has *Little Tikes Toddlers' Spiralin' Seas Waterpark Educational Water Play Table Set* for *$24.99*. Shipping is free w/ Prime or on $35+. Product Description from...",
-      "url": "https://slickdeals.net/f/20008572-little-tikes-toddlers-spiralin-seas-waterpark-educational-water-play-table-set-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/21581541.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 24.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:42:44.000Z",
-      "score": 65,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008572-little-tikes-toddlers-spiralin-seas-waterpark-educational-water-play-table-set-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "677b112c266d4c",
-      "title": "BillConch Biometric Safe for $40 + free shipping",
-      "summary": "Handy for anyone keeping a items secured but quickly accessible at home, thanks to the fingerprint and keypad backup entry options. Apply coupon code \"WPJ8K9MJ\" for a savings of $30. Buy Now at Amazon Features Four quick access me",
-      "url": "https://www.dealnews.com/products/Bill-Conch/Bill-Conch-Biometric-Safe/532067.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1765289372-1.avif?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "Amazon",
-      "category": "Home",
-      "price": 40,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:31:10.000Z",
-      "score": 65,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/products/Bill-Conch/Bill-Conch-Biometric-Safe/532067.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "0526cd150e4983",
-      "title": "Vesgantti 92\" 9-Seat Modular Sectional Sleeper Sofa with Storage for $500 + free shipping",
-      "summary": "Big households or anyone who hosts overnight guests regularly will get the most out of this, since the modular pieces reconfigure into a sleeper and include built-in storage for bedding. Apply coupon code \"QQM5A2P4\" for a savings ",
-      "url": "https://www.dealnews.com/Vesgantti-92-9-Seat-Modular-Sectional-Sleeper-Sofa-with-Storage-for-500-free-shipping/22162702.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1788966356-draftworks_img_l8rj6qg1l2sc6ffdnbi.jpeg?w=900",
+      "id": "24e2f2e9645750",
+      "title": "Mupoer Rechargeable 1.5V 3,000mWh AA Lithium Battery 8-Pack with Charger for $15 + free shipping w/ Prime",
+      "summary": "These lithium AAs hold a steady 1.5V output rather than the gradual drop-off you get with NiMH rechargeables, which matters for devices like game controllers or cameras that get finicky on low voltage. Apply coupon code \"TLLFNROB\"",
+      "url": "https://www.dealnews.com/Mupoer-Rechargeable-1-5-V-3-000-m-Wh-AA-Lithium-Battery-8-Pack-with-Charger-for-15-free-shipping-w-Prime/22124081.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1788189127-draftworks_img_ggtbqvidbvomblpdcdd.jpeg?w=900",
       "source": "DealNews",
       "sourceUrl": "https://www.dealnews.com",
       "merchant": "DealNews",
-      "category": "Everyday",
-      "price": 500,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:18:35.000Z",
-      "score": 65,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/Vesgantti-92-9-Seat-Modular-Sectional-Sleeper-Sofa-with-Storage-for-500-free-shipping/22162702.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "a362c2e1dcd3f5",
-      "title": "TCL 20\" Caged Low Profile Ceiling Fan Light for $59 + free shipping",
-      "summary": "Ceiling fans this compact suit smaller rooms like bedrooms or home offices where a standard-size fan would feel oversized, and the caged design adds a bit of style while keeping blades out of reach. At $59.39, that's $50.60 (46%) ",
-      "url": "https://www.dealnews.com/products/TCL/TCL-20-Caged-Low-Profile-Ceiling-Fan-Light/517664.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1788510312-draftworks_img_u5pj74nlaa4a5epljjm.jpeg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "DealNews",
-      "category": "Style",
-      "price": 59,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T12:20:42.000Z",
-      "score": 65,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/products/TCL/TCL-20-Caged-Low-Profile-Ceiling-Fan-Light/517664.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "2a1ff4a4965e8c",
-      "title": "Nintendo Sound Clock Alarmo $76.99 + Free Shipping",
-      "summary": "Target [target.com] has *Nintendo Sound Clock Alarmo* on sale for *$76.99*. *Shipping is free.* *From Merchant's Product Page:* * *Specs:* * Dimensions: 6.2\" (H) x 4\" (W) x 3.65\" (D) *...",
-      "url": "https://slickdeals.net/f/20008539-nintendo-sound-clock-alarmo-76-99-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/21581505.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Target",
       "category": "Gaming",
-      "price": 76.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:34:58.000Z",
-      "score": 64,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008539-nintendo-sound-clock-alarmo-76-99-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "c9926b2d906316",
-      "title": "Nature Valley Crunchy Cinnamon or Oats And Honey Granola, Resealable Pouch, 16 oz $3.51 or less",
-      "summary": "Clip the 20 percent off coupon https://www.amazon.com/dp/B0199RF...I43DK&th=1",
-      "url": "https://slickdeals.net/f/20008536-nature-valley-crunchy-cinnamon-or-oats-and-honey-granola-resealable-pouch-16-oz-3-51-or-less?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/21581481.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 3.51,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:34:15.000Z",
-      "score": 64,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008536-nature-valley-crunchy-cinnamon-or-oats-and-honey-granola-resealable-pouch-16-oz-3-51-or-less?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "fb86862b8ca10c",
-      "title": "Assassin's Creed Shadows (Physical, PS5 or Xbox) $29.99 + Free Store Pickup at Target or Free Shipping on $35+",
-      "summary": "Target [target.com] has *Assassin's Creed Shadows (PS5)* on sale for *$29.99*. Select *free store pickup* where available. Otherwise, shipping is free on orders $35+. (RedCard holders receive free...",
-      "url": "https://slickdeals.net/f/20008524-assassin-s-creed-shadows-physical-ps5-or-xbox-29-99-free-store-pickup-at-target-or-free-shipping-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/21581466.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Target",
-      "category": "Gaming",
-      "price": 29.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:28:06.000Z",
-      "score": 64,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008524-assassin-s-creed-shadows-physical-ps5-or-xbox-29-99-free-store-pickup-at-target-or-free-shipping-on-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "1541ec0937562c",
-      "title": "Beautyrest Regal Sleep 14.75\" Plush Pillow Top Mattress (Queen ) $564.00 + Free Shipping",
-      "summary": "Home Depot [homedepot.com] has *Beautyrest Regal Sleep 14.75\" Plush Pillow Top Mattress (**Queen)* on sale for *$564.00*. *Shipping is free.*",
-      "url": "https://slickdeals.net/f/20008518-beautyrest-regal-sleep-14-75-plush-pillow-top-mattress-queen-564-00-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/21581415.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Home Depot",
-      "category": "Style",
-      "price": 564,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:18:48.000Z",
-      "score": 64,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008518-beautyrest-regal-sleep-14-75-plush-pillow-top-mattress-queen-564-00-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "4286d604ecf3d7",
-      "title": "CTSafePro Biometric Fingerprint Safe for $40 + free shipping",
-      "summary": "Important documents get quick access with three unlock options, useful if you want backup methods in case the biometric scanner fails or batteries die. Apply coupon code \"4CN8VCHT\" for a savings of $40. Buy Now at Amazon Features ",
-      "url": "https://www.dealnews.com/products/CTSafe-Pro/CTSafe-Pro-Biometric-Fingerprint-Safe/532901.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1788972834-black-electronic-security-safe-keypad-si1g.jpeg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 40,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T12:05:32.000Z",
-      "score": 64,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/products/CTSafe-Pro/CTSafe-Pro-Biometric-Fingerprint-Safe/532901.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "3d397f177fa632",
-      "title": "Zechuan 4,500V Solar-Powered Electric Bug Zapper for $30 + free shipping",
-      "summary": "Handy for patios or gardens where you want a cordless option that recharges on its own, no outlet or battery swaps needed. Apply coupon code \"GL7VZIGX\" for a total savings of $60. Buy Now at Amazon Features 4500V high-voltage grid",
-      "url": "https://www.dealnews.com/Zechuan-4-500-V-Solar-Powered-Electric-Bug-Zapper-for-30-free-shipping/22046047.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1786987668-draftworks_img_25fo8ehuddqk5hppbcp.jpeg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "Amazon",
-      "category": "Home",
-      "price": 30,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T11:41:14.000Z",
-      "score": 64,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/Zechuan-4-500-V-Solar-Powered-Electric-Bug-Zapper-for-30-free-shipping/22046047.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "528d5bbd71eea7",
-      "title": "Jaszdot 43\" Floor Standing Digital Signage Display for $644.50 + free shipping",
-      "summary": "This suits businesses needing a large-format display for lobbies, retail spaces, or wayfinding without mounting it to a wall, since the floor stand setup makes repositioning simple. Apply coupon code \"Z3X1GDBB\" for a savings of 50",
-      "url": "https://www.dealnews.com/products/Jaszdot/Jaszdot-43-Floor-Standing-Digital-Signage-Display/529399.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1788357280-draftworks_img_9iqdsf0mc5pl5ohjcoe.jpeg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "DealNews",
-      "category": "Everyday",
-      "price": 644.5,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T11:37:24.000Z",
-      "score": 64,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/products/Jaszdot/Jaszdot-43-Floor-Standing-Digital-Signage-Display/529399.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "07c59adb6dbcdb",
-      "title": "Anker Zolo 50W USB-C Charger 2-Pack for $25 + free shipping w/ Prime",
-      "summary": "A single charger block is currently $17, making the two for $25 price the best available option. It packs four ports, two USB-C and two USB-A, into a compact block with foldable plugs for travel, and still delivers up to 50W of co",
-      "url": "https://www.dealnews.com/products/Anker/Anker-Zolo-50-W-USB-C-Charger/529006.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1789132543-81oc8sg8enl-ac_sx466.jpg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "DealNews",
-      "category": "Travel",
-      "price": 25,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T10:42:12.000Z",
-      "score": 64,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/products/Anker/Anker-Zolo-50-W-USB-C-Charger/529006.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "654428a32f2595",
-      "title": "Philips Sonicare 1100 Power Toothbrush for $15 + free shipping w/ Prime",
-      "summary": "The Philips Sonicare 1100 Electric Toothbrush is down to $15 today, which is Amazon's lowest-ever price. You'd pay $5 more at Best Buy and even more at local stores like Walgreens. Shipping is free for Prime members, too. It inclu",
-      "url": "https://www.dealnews.com/products/Philips-Sonicare/Philips-Sonicare-1100-Power-Toothbrush/458976.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1789032885-product-trimmed.jpg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "Amazon",
-      "category": "Everyday",
       "price": 15,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T10:41:29.000Z",
-      "score": 64,
+      "publishedAt": "2026-09-14T16:04:15.000Z",
+      "score": 66,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "DealNews",
-          "url": "https://www.dealnews.com/products/Philips-Sonicare/Philips-Sonicare-1100-Power-Toothbrush/458976.html?iref=rss"
+          "url": "https://www.dealnews.com/Mupoer-Rechargeable-1-5-V-3-000-m-Wh-AA-Lithium-Battery-8-Pack-with-Charger-for-15-free-shipping-w-Prime/22124081.html?iref=rss"
         }
       ]
     },
     {
-      "id": "d33a52dced040e",
-      "title": "Replace overstimulating screen time with Montessori-inspired Pok Pok for just $60",
-      "summary": "Macworld TL;DR: Pok Pok lifetime access is $59.99 (reg. $250), giving families unlimited access to a growing collection of low-stimulation, Montessori-inspired educational activities without ads, levels, winning, or losing. Not al",
-      "url": "https://www.macworld.com/article/3233461/replace-overstimulating-screen-time-with-montessori-inspired-pok-pok-for-just-60.html",
-      "imageUrl": "https://www.macworld.com/wp-content/uploads/2026/09/3233461-0-78126300-1789200057-Pok-Pok.jpg?quality=50&strip=all",
-      "source": "Macworld Deals",
-      "sourceUrl": "https://www.macworld.com/deals",
-      "merchant": "Macworld Deals",
-      "category": "Everyday",
-      "price": 60,
-      "originalPrice": 250,
-      "discountPercent": 76,
-      "publishedAt": "2026-09-12T08:00:00.000Z",
-      "score": 64,
-      "badge": "Price drop",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Macworld Deals",
-          "url": "https://www.macworld.com/article/3233461/replace-overstimulating-screen-time-with-montessori-inspired-pok-pok-for-just-60.html"
-        }
-      ]
-    },
-    {
-      "id": "60edb166755c13",
-      "title": "Pay $11 once & block annoying ads on up to 9 devices for life",
-      "summary": "Macworld TL;DR: Through Sept. 20, pay just $11 (reg. $169.99) for lifetime AdGuard Family access on up to nine devices, including ad blocking, privacy protection, malware protection, and parental controls. The internet has plenty ",
-      "url": "https://www.macworld.com/article/3233448/pay-11-once-block-annoying-ads-on-up-to-9-devices-for-life.html",
-      "imageUrl": "https://www.macworld.com/wp-content/uploads/2026/09/3233448-0-03942400-1789200078-AdGuard-Fam-1.jpg?quality=50&strip=all",
-      "source": "Macworld Deals",
-      "sourceUrl": "https://www.macworld.com/deals",
-      "merchant": "Macworld Deals",
-      "category": "Everyday",
-      "price": 11,
-      "originalPrice": 169.99,
-      "discountPercent": 94,
-      "publishedAt": "2026-09-12T08:00:00.000Z",
-      "score": 64,
-      "badge": "Price drop",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Macworld Deals",
-          "url": "https://www.macworld.com/article/3233448/pay-11-once-block-annoying-ads-on-up-to-9-devices-for-life.html"
-        }
-      ]
-    },
-    {
-      "id": "083784e0229d38",
-      "title": "Ultimate Ears WONDERBOOM 4 Portable Waterproof Speaker for $60 + free shipping",
-      "summary": "This Ultimate Ears WONDERBOOM 4 speaker is $40 off and matches its all-time low price on Amazon. It's rated IP67 for waterproofing and can survive being submerged in a meter of water for 30 minutes, with up to 14 hours of battery ",
-      "url": "https://www.dealnews.com/Ultimate-Ears-WONDERBOOM-4-Portable-Waterproof-Speaker-for-60-free-shipping/22176728.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1789284007-product-trimmed.jpg?w=900",
+      "id": "b088b8b4f7141d",
+      "title": "AovoPro Ladped LP60 350W 8.5\" Folding Electric Scooter for $100 + free shipping",
+      "summary": "Promo code \"15USAFF\" drops the AovoPro Ladped LP60 350W 8.5\" Folding Electric Scooter to $100, for the best price we've seen. Shipping is free from the United States. This deal ends September 20. Buy Now at AliExpress Features 350",
+      "url": "https://www.dealnews.com/Aovo-Pro-Ladped-LP60-350-W-8-5-Folding-Electric-Scooter-for-100-free-shipping/22180965.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789401449-product-trimmed.jpg?w=900",
       "source": "DealNews",
       "sourceUrl": "https://www.dealnews.com",
-      "merchant": "Amazon",
-      "category": "Tech",
-      "price": 60,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T07:20:13.000Z",
-      "score": 61,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/Ultimate-Ears-WONDERBOOM-4-Portable-Waterproof-Speaker-for-60-free-shipping/22176728.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "8d24494d90c9f4",
-      "title": "Anker 12-Outlet Power Strip Surge Protector w/ USB for $30 + free shipping w/ Prime",
-      "summary": "This Anker power strip is $10 off, dropping to $29.99. It features 12 AC outlets plus USB-C and USB-A ports, backed by a 2100-joule surge protection rating. Buy Now at Amazon Features 12 AC outlets 2 USB-A ports USB-C port 5' exte",
-      "url": "https://www.dealnews.com/products/Anker/Anker-12-Outlet-Power-Strip-Surge-Protector/401153.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1708463231-dn-image-7812360.jpg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "Amazon",
-      "category": "Tech",
-      "price": 30,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T07:18:53.000Z",
-      "score": 61,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/products/Anker/Anker-12-Outlet-Power-Strip-Surge-Protector/401153.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "eba7e253deda1b",
-      "title": "Rockland Young Electric 62\" Roof Bracket for $100 + free shipping",
-      "summary": "At Lowe's get the Rockland Young Electric 62\" Roof Bracket for $100. That's a savings of $100. It ships free. Deal ends September 23. Buy Now at Lowe's",
-      "url": "https://www.dealnews.com/Rockland-Young-Electric-62-Roof-Bracket-for-100-free-shipping/22165937.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1789048409-product-trimmed.jpg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "Lowe's",
+      "merchant": "DealNews",
       "category": "Everyday",
       "price": 100,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T07:15:03.000Z",
-      "score": 61,
+      "publishedAt": "2026-09-14T15:57:16.000Z",
+      "score": 66,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "DealNews",
-          "url": "https://www.dealnews.com/Rockland-Young-Electric-62-Roof-Bracket-for-100-free-shipping/22165937.html?iref=rss"
+          "url": "https://www.dealnews.com/Aovo-Pro-Ladped-LP60-350-W-8-5-Folding-Electric-Scooter-for-100-free-shipping/22180965.html?iref=rss"
         }
       ]
     },
     {
-      "id": "e175a155e79c99",
-      "title": "HOKA Men's Clifton One9 Shoes for $75 + free shipping",
-      "summary": "The HOKA Clifton One9s have dropped to just $75 in two different colors today at Nordstrom. It's the best price we've seen for these popular shoes and $10 cheaper than what you'd pay today for any color at Foot Locker. The shoe pa",
-      "url": "https://www.dealnews.com/HOKA-Mens-Clifton-One9-Shoes-for-75-free-shipping/22165935.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1789048130-product-trimmed.jpg?w=900",
+      "id": "6e1c4e32eb8d62",
+      "title": "Nulas 15-Piece Kitchen Knife Set with Block and Built-in Sharpener for $30 + free shipping",
+      "summary": "Home cooks who don't want to sharpen knives separately will get the most out of the built-in sharpener slots in the block. Apply coupon code \"CCMY4RBD\" for a savings of $30. Buy Now at Amazon Features 15-piece knife set with stora",
+      "url": "https://www.dealnews.com/products/Nulas/Nulas-15-Piece-Kitchen-Knife-Set-with-Block-and-Built-in-Sharpener/529014.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1788290860-draftworks_img_u0j3umagt72bagcfdon.jpeg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "Amazon",
+      "category": "Home",
+      "price": 30,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T15:54:45.000Z",
+      "score": 66,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/products/Nulas/Nulas-15-Piece-Kitchen-Knife-Set-with-Block-and-Built-in-Sharpener/529014.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "8548db701cee5b",
+      "title": "Boutique Seekers 7-Cigar Sampler w/ Lighter for $29 + free shipping",
+      "summary": "Promo code \"DNBS7L\" drops this Boutique Seekers 7-Cigar Sampler and Lighter combo to $29, down from $96.74. The lineup pairs cigars from La Aurora, the oldest cigar factory in the Dominican Republic, with the Blackened S84 Shade t",
+      "url": "https://www.dealnews.com/Boutique-Seekers-7-Cigar-Sampler-w-Lighter-for-29-free-shipping/22180963.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789401254-kp-de006lo001-l-qa5-a_1.jpg?w=900",
       "source": "DealNews",
       "sourceUrl": "https://www.dealnews.com",
       "merchant": "DealNews",
-      "category": "Style",
-      "price": 75,
+      "category": "Everyday",
+      "price": 29,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T07:14:41.000Z",
-      "score": 61,
+      "publishedAt": "2026-09-14T15:54:20.000Z",
+      "score": 66,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "DealNews",
-          "url": "https://www.dealnews.com/HOKA-Mens-Clifton-One9-Shoes-for-75-free-shipping/22165935.html?iref=rss"
+          "url": "https://www.dealnews.com/Boutique-Seekers-7-Cigar-Sampler-w-Lighter-for-29-free-shipping/22180963.html?iref=rss"
         }
       ]
     },
     {
-      "id": "7f8c2271d729ee",
-      "title": "1000X Handheld Digital Microscope for Kids, 2.4\" IPS Screen STEM Toys $25.94",
-      "summary": "VorthDirect via Amazon has 1000X Handheld Digital Microscope for Kids, 2.4\" IPS Screen STEM Toy for $ 25.94 https://www.amazon.com/dp/B0FNR95K3Q?th=1",
-      "url": "https://slickdeals.net/f/20008689-1000x-handheld-digital-microscope-for-kids-2-4-ips-screen-stem-toys-25-94?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/21581679.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
+      "id": "599bbef39b0fce",
+      "title": "Men's Slim Fit One-Button Tuxedo Suit for $90.30 + free shipping",
+      "summary": "Handy for anyone facing a wedding or formal event on short notice, the slim cut keeps it from looking boxy. Apply coupon code \"DEAL30\" for a savings of $39. Buy Now at MoranX Features Matching trousers with finished hem Single-but",
+      "url": "https://www.dealnews.com/Mens-Slim-Fit-One-Button-Tuxedo-Suit-for-90-30-free-shipping/22180949.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789400597-draftworks_img_mhq7thh5nlbtdccfgcd.jpeg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "DealNews",
       "category": "Everyday",
-      "price": 25.94,
+      "price": 90.3,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T14:15:27.000Z",
-      "score": 59,
+      "publishedAt": "2026-09-14T15:46:04.000Z",
+      "score": 66,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/Mens-Slim-Fit-One-Button-Tuxedo-Suit-for-90-30-free-shipping/22180949.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "bc24016b3ee093",
+      "title": "Vtoman V8 Plus 12V Car Jump Starter for $48 + free shipping",
+      "summary": "Stalled batteries in cold weather or older vehicles are the main reason to keep one of these in your trunk, and at $48 it's $42 off the $90 list price. Buy Now at Walmart Features 3,500A peak and 400A starting power supports up to",
+      "url": "https://www.dealnews.com/Vtoman-V8-Plus-12-V-Car-Jump-Starter-for-48-free-shipping/22180943.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789400345-vtoman-portable-jump-starter-angled-view-cnwm.avif?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "Walmart",
+      "category": "Everyday",
+      "price": 48,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T15:41:15.000Z",
+      "score": 66,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/Vtoman-V8-Plus-12-V-Car-Jump-Starter-for-48-free-shipping/22180943.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "1379e173d25107",
+      "title": "Body Glove Women's Flip Flop $7.97 sizes 6 and 10 @ Costco FS",
+      "summary": "Costco has Body Glove Women's Flip Flops on clearance for $7.97. available in size 6 and 10 in pink, or size 6 in black. Shipping is free. https://www.costco.com/p/-/body-g...lor%3Apink",
+      "url": "https://slickdeals.net/f/20013699-body-glove-women-s-flip-flop-7-97-sizes-6-and-10-costco-fs?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/9/0/8/0/9/300x300/21593529.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Costco",
+      "category": "Everyday",
+      "price": 7.97,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:17:01.000Z",
+      "score": 65,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008689-1000x-handheld-digital-microscope-for-kids-2-4-ips-screen-stem-toys-25-94?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+          "url": "https://slickdeals.net/f/20013699-body-glove-women-s-flip-flop-7-97-sizes-6-and-10-costco-fs?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
         }
       ]
     },
     {
-      "id": "c21de2bb87d4a1",
-      "title": "$117: DEWALT 20V MAX Cordless 4 1/2 Inch Paddle-Switch Grinder, Bare Tool Only (DCG408B) at Amazon",
-      "summary": "Woot! via Amazon.com has DEWALT 20V MAX Cordless 4 1/2 Inch Paddle-Switch Grinder, Bare Tool Only (DCG408B) for $117. Shipping is free. About this item[list][*]Run Time - Up to 56 cuts of 1/2\"...",
-      "url": "https://slickdeals.net/f/20008686-117-dewalt-20v-max-cordless-4-1-2-inch-paddle-switch-grinder-bare-tool-only-dcg408b-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21581670.thumb",
+      "id": "cc128e310cd228",
+      "title": "L’AGRATY Outdoor Chair Cushions for Patio Furniture：24\" x 24\" Deep Seat Cushions with Backrest for Couch Sofa Chair $45.59",
+      "summary": "40% Code 32KKRJ42 + 5% Price Drop. All colors. Fill Material30D High-Resilience Foam, Polyester Fiber Pillow TypeFurniture Cushion ColorNavy Blue Size24\" x 24\" BrandL'AGRATY About this item...",
+      "url": "https://slickdeals.net/f/20013681-l-agraty-outdoor-chair-cushions-for-patio-furniture-24-x-24-deep-seat-cushions-with-backrest-for-couch-sofa-chair-45-59?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/21593451.thumb",
       "source": "Slickdeals",
       "sourceUrl": "https://slickdeals.net",
+      "merchant": "Slickdeals",
+      "category": "Home",
+      "price": 45.59,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:14:39.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013681-l-agraty-outdoor-chair-cushions-for-patio-furniture-24-x-24-deep-seat-cushions-with-backrest-for-couch-sofa-chair-45-59?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "3b5fbb2dc96c15",
+      "title": "Reef Men's Cushion Fanning Flip Flop $29.97 @ Costco FS",
+      "summary": "Costco has the Reef Men's Cushion Fanning Flip Flop on clearance for $29.97. Shipping is free. Available in sizes 9-13. https://www.costco.com/.product.4201007546.html",
+      "url": "https://slickdeals.net/f/20013675-reef-men-s-cushion-fanning-flip-flop-29-97-costco-fs?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/9/0/8/0/9/300x300/21593430.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Costco",
+      "category": "Everyday",
+      "price": 29.97,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:13:55.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013675-reef-men-s-cushion-fanning-flip-flop-29-97-costco-fs?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "cf79ed83f8d6da",
+      "title": "On Women's Cloudpulse Next Shoes (Sakura/Dew) $90.97 + Free Shipping",
+      "summary": "Dick's Sporting Goods [dickssportinggoods.com] has *On Cloud Women's Cloudpulse Next Sneakers (Sakura/Dew) *on sale for *$90.97*.* Shipping is free.*",
+      "url": "https://slickdeals.net/f/20013669-on-women-s-cloudpulse-next-shoes-sakura-dew-90-97-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/21593394.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Dick's Sporting Goods",
+      "category": "Style",
+      "price": 90.97,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:12:54.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013669-on-women-s-cloudpulse-next-shoes-sakura-dew-90-97-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "f0fd36c9be285d",
+      "title": "Body Glove men's flip flops $7.97 size 11 and 13 @ Costco FS",
+      "summary": "Costco has men's body glove flip flops on clearance for $7.97 in siE 11 and 13. Shipping is free. https://www.costco.com/p/-/body-g...or%3Abrown",
+      "url": "https://slickdeals.net/f/20013651-body-glove-men-s-flip-flops-7-97-size-11-and-13-costco-fs?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/9/0/8/0/9/300x300/21593343.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Costco",
+      "category": "Everyday",
+      "price": 7.97,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:09:55.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013651-body-glove-men-s-flip-flops-7-97-size-11-and-13-costco-fs?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "8feffad6db7f4c",
+      "title": "NULAS 48-Piece Silverware Set, Mirror Polish Stainless Steel Flatware Set. Includes Steak Knives, Dishwasher Safe for Home & Restaurant, Gifts, Black. $25.99",
+      "summary": "No code needed but dont forget to checl $7 off code on product page for final price of $25.99. Key item features Complete 48-Piece Set – Includes 8 steak knives, 8 dinner knives, 8 dinner forks,...",
+      "url": "https://slickdeals.net/f/20013648-nulas-48-piece-silverware-set-mirror-polish-stainless-steel-flatware-set-includes-steak-knives-dishwasher-safe-for-home-restaurant-gifts-black-25-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/21593316.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Slickdeals",
+      "category": "Home",
+      "price": 25.99,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:09:49.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013648-nulas-48-piece-silverware-set-mirror-polish-stainless-steel-flatware-set-includes-steak-knives-dishwasher-safe-for-home-restaurant-gifts-black-25-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "904d233a87425a",
+      "title": "On Women's Cloudrunner 3 Running Shoes (Seedling/Ivory) $94.97 + Free Shipping",
+      "summary": "Dick's Sporting Goods [dickssportinggoods.com] has *On Cloud Women's Cloudrunner 3 Running Sneakers (Seedling/Ivory) *on sale for *$94.97*. *Shipping is free.*",
+      "url": "https://slickdeals.net/f/20013645-on-women-s-cloudrunner-3-running-shoes-seedling-ivory-94-97-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/21593508.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Dick's Sporting Goods",
+      "category": "Style",
+      "price": 94.97,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:09:08.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013645-on-women-s-cloudrunner-3-running-shoes-seedling-ivory-94-97-free-shipping?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "bb96ba25c1a8af",
+      "title": "AVDLBIKE A13 500W 16\" Electric Fat Tire Bike for $489 + free shipping",
+      "summary": "Commuters or casual riders who want extra stability on rough terrain will appreciate the fat tires and 500W motor for tackling hills or gravel without much effort, and at $489, that's $170 (26%) off the $659 list price via coupon ",
+      "url": "https://www.dealnews.com/AVDLBIKE-A13-500-W-16-Electric-Fat-Tire-Bike-for-489-free-shipping/22180941.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789396939-draftworks_img_dop4nk2c4s0jdkifppk.jpeg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "DealNews",
+      "category": "Everyday",
+      "price": 489,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T15:34:06.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/AVDLBIKE-A13-500-W-16-Electric-Fat-Tire-Bike-for-489-free-shipping/22180941.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "6d77389bfb4111",
+      "title": "Clirass Elongated Electric Bidet Toilet Seat for $263 + free shipping",
+      "summary": "Upgrading to a heated seat with adjustable water temperature and pressure makes sense for anyone dealing with an old, worn-out toilet seat or looking to cut down on toilet paper use, and this elongated model fits standard elongate",
+      "url": "https://www.dealnews.com/products/Clirass/Clirass-Elongated-Electric-Bidet-Toilet-Seat/534835.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789394241-draftworks_img_lusji4usu9er6kljfnb.jpeg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "DealNews",
+      "category": "Everyday",
+      "price": 263,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T15:28:16.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/products/Clirass/Clirass-Elongated-Electric-Bidet-Toilet-Seat/534835.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "86f9ec51851287",
+      "title": "10\" Metal Bird Bath w/ Stake for $9 + free shipping w/ Prime",
+      "summary": "This bird bath is $9.49, down from $16.99 at Amazon. It has a 10\" bowl with a 1.6\" water depth suited for small songbirds, and its metal construction includes a weather-resistant coating to help resist rust. Buy Now at Amazon Feat",
+      "url": "https://www.dealnews.com/10-Metal-Bird-Bath-w-Stake-for-9-free-shipping-w-Prime/22180924.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789399687-71w4qpw21ul.jpg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "Amazon",
+      "category": "Everyday",
+      "price": 9,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T15:28:13.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/10-Metal-Bird-Bath-w-Stake-for-9-free-shipping-w-Prime/22180924.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "fcf669cf306bff",
+      "title": "Mid Century Tufted Upholstered Accent Chair for $107 + free shipping",
+      "summary": "This accent chair is $107.28, down from $139.99. It has a solid wood frame rated to hold up to 250 lb. and features a button-tufted back with linen upholstery over foam-filled cushions. Buy Now at Amazon Features Button-tufted bac",
+      "url": "https://www.dealnews.com/Mid-Century-Tufted-Upholstered-Accent-Chair-for-107-free-shipping/22180923.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789399637-81gppyek2ll.jpg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "Amazon",
+      "category": "Everyday",
+      "price": 107,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T15:27:24.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/Mid-Century-Tufted-Upholstered-Accent-Chair-for-107-free-shipping/22180923.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "ca9e7fd21d6d5d",
+      "title": "TP-Link Festa FS328GP 28-Port Gigabit Smart Managed PoE Switch for $119 + free shipping",
+      "summary": "This TP-Link Festa switch is $118.99, down from its $299.99 list price, and matches its all-time low on Amazon. You'd pay over $200 elsewhere. It combines 24 PoE+ ports with 250 watts of total power capacity and 4 Gigabit SFP slot",
+      "url": "https://www.dealnews.com/TP-Link-Festa-FS328-GP-28-Port-Gigabit-Smart-Managed-Po-E-Switch-for-119-free-shipping/22180922.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789399475-product-trimmed.jpg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "Amazon",
+      "category": "Everyday",
+      "price": 119,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T15:24:43.000Z",
+      "score": 65,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/TP-Link-Festa-FS328-GP-28-Port-Gigabit-Smart-Managed-Po-E-Switch-for-119-free-shipping/22180922.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "c13aa376e5b9d8",
+      "title": "Ninemoon Twin 3\" Cooling Memory Foam Mattress Topper for $55 + free shipping",
+      "summary": "Side sleepers and hot sleepers dealing with an old, firm mattress can add some cushioning and airflow without buying a whole new bed. Apply coupon code \"T59W2Q7Q\" for a savings of $55. Buy Now at Amazon Features CertiPUR-US and OE",
+      "url": "https://www.dealnews.com/products/Ninemoon/Ninemoon-Twin-3-Cooling-Memory-Foam-Mattress-Topper/534834.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789394848-draftworks_img_qdnr96eso9cbahbjlen.jpeg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
       "merchant": "Amazon",
       "category": "Home",
-      "price": 117,
+      "price": 55,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T14:15:15.000Z",
-      "score": 59,
+      "publishedAt": "2026-09-14T15:23:39.000Z",
+      "score": 65,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008686-117-dewalt-20v-max-cordless-4-1-2-inch-paddle-switch-grinder-bare-tool-only-dcg408b-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/products/Ninemoon/Ninemoon-Twin-3-Cooling-Memory-Foam-Mattress-Topper/534834.html?iref=rss"
         }
       ]
     },
     {
-      "id": "9f768c9a9eb7e4",
-      "title": "COSYGLOW Portable Cordless Heating Pad Cramps $9.59",
-      "summary": "COSYGLOW via Amazon has Portable Cordless Heating Pad Cramps for $ 9.59 when you use code *LDBITCAF *at checkout https://www.amazon.com/dp/B0H6S73MCG?th=1",
-      "url": "https://slickdeals.net/f/20008680-cosyglow-portable-cordless-heating-pad-cramps-9-59?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/21581646.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
+      "id": "aa9855588365db",
+      "title": "Ausom L2 Max Dual Motor Electric Scooter for $819 + free shipping",
+      "summary": "Riders who need real hill-climbing power will notice the dual motors, since most single-motor scooters struggle on steep inclines or with heavier loads. At $819, that's $230 off the $1,049 list price via coupon code \"AUSOMDN\". Dea",
+      "url": "https://www.dealnews.com/products/Ausom/Ausom-L2-Max-Dual-Motor-Electric-Scooter/534830.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789399092-scooter123.png?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "DealNews",
       "category": "Everyday",
-      "price": 9.59,
+      "price": 819,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T14:12:41.000Z",
-      "score": 59,
+      "publishedAt": "2026-09-14T15:22:14.000Z",
+      "score": 65,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008680-cosyglow-portable-cordless-heating-pad-cramps-9-59?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/products/Ausom/Ausom-L2-Max-Dual-Motor-Electric-Scooter/534830.html?iref=rss"
         }
       ]
     },
     {
-      "id": "e6c6c6b1ce4d8d",
-      "title": "DC 7 Film Collection (4K Ultra HD) $75.59 Amazon.com",
-      "summary": "https://www.amazon.com/Film-Colle...233&sr=1-1",
-      "url": "https://slickdeals.net/f/20008668-dc-7-film-collection-4k-ultra-hd-75-59-amazon-com?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/21581640.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
+      "id": "908c9dfc06e41f",
+      "title": "Slim Mouse Jiggler w/ On/Off Switch for $13 + free shipping w/ Prime",
+      "summary": "This Yonktoo mouse jiggler is $12.74, down from $14.99 at Amazon. It uses physical movement rather than software to keep a computer from going idle, and includes a built-in pause button and a 4.9-ft. USB-A to USB-C cable. Buy Now ",
+      "url": "https://www.dealnews.com/Slim-Mouse-Jiggler-w-On-Off-Switch-for-13-free-shipping-w-Prime/22180919.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789399325-8123ylht9ul.jpg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
       "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 75.59,
+      "category": "Tech",
+      "price": 13,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T14:11:50.000Z",
-      "score": 59,
+      "publishedAt": "2026-09-14T15:22:12.000Z",
+      "score": 65,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008668-dc-7-film-collection-4k-ultra-hd-75-59-amazon-com?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/Slim-Mouse-Jiggler-w-On-Off-Switch-for-13-free-shipping-w-Prime/22180919.html?iref=rss"
         }
       ]
     },
     {
-      "id": "2762535b2c22f5",
-      "title": "573 pcs LEGO ONE PIECE Buggy the Clown’s Circus Tent Building Blocks(75637) $37.39 + Free S&H at Amazon",
-      "summary": "Amazon.com has 573 pcs LEGO ONE PIECE Buggy the Clown’s Circus Tent Building Blocks(75637) for $37.39. Shipping is free. https://www.amazon.com/dp/B0DRW4ZZK3",
-      "url": "https://slickdeals.net/f/20008662-573-pcs-lego-one-piece-buggy-the-clown-s-circus-tent-building-blocks-75637-37-39-free-s-h-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21581628.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 37.39,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T14:10:39.000Z",
-      "score": 59,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008662-573-pcs-lego-one-piece-buggy-the-clown-s-circus-tent-building-blocks-75637-37-39-free-s-h-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "c1643ecc2c3ac7",
-      "title": "$18 ac AMAZON 19 in 1 Survival Kit Stocking Stuffers for Men, Survival Gear and Supplies",
-      "summary": "https://www.amazon.com/dp/B0C7KQ16M6?th= promo code 4ZLBV9H8 at c/o Emergency Survival Kit: The survival kit contains an exquisite gift box, waterproof box, survival bracelet, flashlight,...",
-      "url": "https://slickdeals.net/f/20008659-18-ac-amazon-19-in-1-survival-kit-stocking-stuffers-for-men-survival-gear-and-supplies?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/21581619.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
+      "id": "41b936156d10f4",
+      "title": "Harry's Wildlands 18 fl. oz. Body Wash 3-Pack for $18 + free shipping w/ Prime",
+      "summary": "This 3-pack of Harry's Wildlands body wash is $6 off the regular price at Amazon. Each 18-fl.-oz. bottle is made without sulfates, parabens, or dyes, making it suitable for sensitive skin. Buy Now at Amazon Features Includes three",
+      "url": "https://www.dealnews.com/Harrys-Wildlands-18-fl-oz-Body-Wash-3-Pack-for-18-free-shipping-w-Prime/22180918.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789399168-81tvrh5z09l.jpg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
       "merchant": "Amazon",
       "category": "Everyday",
       "price": 18,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T14:10:32.000Z",
-      "score": 59,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008659-18-ac-amazon-19-in-1-survival-kit-stocking-stuffers-for-men-survival-gear-and-supplies?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "24211d3394ec7a",
-      "title": "Super Mario Party Jamboree(Nintendo Switch, Physical/Digital) $41.99 + Free S&H at BestBuy",
-      "summary": "BestBuy has Super Mario Party Jamboree(Nintendo Switch, Physical/Digital) for $41.99. Shipping is free. https://www.bestbuy.com/product/s...J7GSL5JF86",
-      "url": "https://slickdeals.net/f/20008638-super-mario-party-jamboree-nintendo-switch-physical-digital-41-99-free-s-h-at-bestbuy?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21581613.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Slickdeals",
-      "category": "Gaming",
-      "price": 41.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T14:05:17.000Z",
-      "score": 59,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008638-super-mario-party-jamboree-nintendo-switch-physical-digital-41-99-free-s-h-at-bestbuy?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "a251ab1f05a3f5",
-      "title": "C.S. Lewis: The Business of Heaven: Daily Readings (Kindle Edition) $0.99",
-      "summary": "Amazon [amazon.com] has C.S. Lewis: The Business of Heaven: Daily Readings (Kindle Edition)for $0.99.",
-      "url": "https://slickdeals.net/f/20008602-c-s-lewis-the-business-of-heaven-daily-readings-kindle-edition-0-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/21581589.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 0.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:55:15.000Z",
-      "score": 59,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008602-c-s-lewis-the-business-of-heaven-daily-readings-kindle-edition-0-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "e944c33b348aa0",
-      "title": "Klein Tools 2-Pair Cut-Resistant Nitrile Coated Work Gloves(Large) $7.98 + Free S&H w/ Prime or $35+",
-      "summary": "Amazon.com has Klein Tools 60581 Work Gloves, Knit Dipped Cut Resistant ANSI A1 Nitrile Coated Gloves, Nylon-Spandex, Touchscreen Capable, Large, 2-Pair for $7.98. Shipping is free with Prime or on...",
-      "url": "https://slickdeals.net/f/20008599-klein-tools-2-pair-cut-resistant-nitrile-coated-work-gloves-large-7-98-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21581574.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Home",
-      "price": 7.98,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:52:47.000Z",
-      "score": 59,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008599-klein-tools-2-pair-cut-resistant-nitrile-coated-work-gloves-large-7-98-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "64b3614118b032",
-      "title": "216 pcs LEGO Speed Champions Audi Revolut F1 Team R26 Race Car (77259) $18.69 + Free S&H w/ Prime or $35+",
-      "summary": "Amazon.com has LEGO Speed Champions Audi Revolut F1 Team R26 Race Car 77259 for $18.69. Shipping is free with Prime or on $35+ orders. https://www.amazon.com/dp/B0FMYTJ93W",
-      "url": "https://slickdeals.net/f/20008548-216-pcs-lego-speed-champions-audi-revolut-f1-team-r26-race-car-77259-18-69-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21581523.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 18.69,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:40:34.000Z",
-      "score": 59,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008548-216-pcs-lego-speed-champions-audi-revolut-f1-team-r26-race-car-77259-18-69-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "e0b899248a96ce",
-      "title": "Pay $16.97 once for Microsoft Office 2019 Pro Plus and never renew again",
-      "summary": "TL;DR: Get Word, Excel, PowerPoint, and more with a lifetime license to Microsoft Office Professional Plus 2019 for Windows, now $16.97 (MSRP $229) through September 27. Microsoft 365 charges a subscription fee every year, and tha",
-      "url": "https://www.pcworld.com/article/3233476/pay-16-97-once-for-microsoft-office-2019-pro-plus-and-never-renew-again.html",
-      "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/09/3233476-0-53475700-1789286429-mso-pro-plus-2019-win.jpg?quality=50&strip=all",
-      "source": "PCWorld Deals",
-      "sourceUrl": "https://www.pcworld.com/deals",
-      "merchant": "PCWorld Deals",
-      "category": "Everyday",
-      "price": 16.97,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T08:00:00.000Z",
-      "score": 58,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "PCWorld Deals",
-          "url": "https://www.pcworld.com/article/3233476/pay-16-97-once-for-microsoft-office-2019-pro-plus-and-never-renew-again.html"
-        }
-      ]
-    },
-    {
-      "id": "481305c342bc20",
-      "title": "This 153-hour IT certification prep bundle is only $25 right now",
-      "summary": "TL;DR : The All-in-One CompTIA Certification Prep Bundle gives you 10 courses to help prepare for your certification exams, and it’s on sale for $25. IT certification training usually runs hundreds of dollars per exam track, and t",
-      "url": "https://www.pcworld.com/article/3233464/this-153-hour-it-certification-prep-bundle-is-only-25-right-now.html",
-      "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/09/3233464-0-87253600-1789286461-CompTIA-Cert.jpg?quality=50&strip=all",
-      "source": "PCWorld Deals",
-      "sourceUrl": "https://www.pcworld.com/deals",
-      "merchant": "PCWorld Deals",
-      "category": "Everyday",
-      "price": 25,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T08:00:00.000Z",
-      "score": 58,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "PCWorld Deals",
-          "url": "https://www.pcworld.com/article/3233464/this-153-hour-it-certification-prep-bundle-is-only-25-right-now.html"
-        }
-      ]
-    },
-    {
-      "id": "10cbae775de4df",
-      "title": "$24.49: Nintendo - amiibo - Rosalina and Lumas - Super Mario Galaxy + Super Mario Galaxy 2 Series at BestBuy",
-      "summary": "BestBuy has Nintendo - amiibo - Rosalina and Lumas - Super Mario Galaxy + Super Mario Galaxy 2 Series - Multi for $24.49. BestBuy [bestbuy.com] has Nintendo - amiibo™ - Mario and Luma - Super...",
-      "url": "https://slickdeals.net/f/20008542-24-49-nintendo-amiibo-rosalina-and-lumas-super-mario-galaxy-super-mario-galaxy-2-series-at-bestbuy?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21581514.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Slickdeals",
-      "category": "Gaming",
-      "price": 24.49,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:37:50.000Z",
-      "score": 58,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008542-24-49-nintendo-amiibo-rosalina-and-lumas-super-mario-galaxy-super-mario-galaxy-2-series-at-bestbuy?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "d37d3f71937407",
-      "title": "Schwinn 26-Lb Rear Bike Rack(1.09\"L x 6.5\"W x 16.73\"H) $13.24 + Free S&H w/ Prime or $35+",
-      "summary": "Amazon.com has Schwinn Rear Bike Rack, 26 lb Capacity, Lightweight, Compact and Durable Construction, Fits Most Adult Bicycle Frames, Cargo Options for Backpack, Baskets & More, Bicycle Rack for Back...",
-      "url": "https://slickdeals.net/f/20008515-schwinn-26-lb-rear-bike-rack-1-09-l-x-6-5-w-x-16-73-h-13-24-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
-      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21581439.thumb",
-      "source": "Slickdeals",
-      "sourceUrl": "https://slickdeals.net",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 13.24,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:17:53.000Z",
-      "score": 58,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Slickdeals",
-          "url": "https://slickdeals.net/f/20008515-schwinn-26-lb-rear-bike-rack-1-09-l-x-6-5-w-x-16-73-h-13-24-free-s-h-w-prime-or-35?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
-        }
-      ]
-    },
-    {
-      "id": "18b95963e7bb4a",
-      "title": "Scenic 12-Night Antarctica Cruise for From $37,946 for 2",
-      "summary": "Journey round-trip from Buenos Aires on this 13-day Scenic expedition to Antarctica, including an overnight hotel stay in Buenos Aires and flights to and from Ushuaia. Cross the Drake Passage aboard a Discovery Yacht and explore t",
-      "url": "https://www.dealnews.com/Scenic-12-Night-Antarctica-Cruise-for-From-37-946-for-2/22169642.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1789127439-large-iceberg-ocean-angled-view-pa2h.jpeg?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "DealNews",
-      "category": "Travel",
-      "price": 37946,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "score": 58,
+      "publishedAt": "2026-09-14T15:19:34.000Z",
+      "score": 65,
       "badge": "Fresh find",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "DealNews",
-          "url": "https://www.dealnews.com/Scenic-12-Night-Antarctica-Cruise-for-From-37-946-for-2/22169642.html?iref=rss"
+          "url": "https://www.dealnews.com/Harrys-Wildlands-18-fl-oz-Body-Wash-3-Pack-for-18-free-shipping-w-Prime/22180918.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "1f51b1a3842c5c",
+      "title": "7-Night Peru Flight, Hotel, and Tour Vacation for From $1,998 for 2",
+      "summary": "Explore Lima, the Sacred Valley, Cusco, and Machu Picchu on this 8-day Peru vacation with international flights, 3-star accommodations, daily breakfast, domestic flights, and select transfers included. Visit the Awanacancha cameli",
+      "url": "https://www.dealnews.com/7-Night-Peru-Flight-Hotel-and-Tour-Vacation-for-From-1-998-for-2/22180468.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789377497-llamas-natural-habitat-side-view-e3sp.jpeg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "DealNews",
+      "category": "Travel",
+      "price": 1998,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "score": 60,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/7-Night-Peru-Flight-Hotel-and-Tour-Vacation-for-From-1-998-for-2/22180468.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "15ee47f474bf27",
+      "title": "Microsoft 4-License Bundle: Windows 11 Pro + Office Pro 2024 + Project Pro + Visio Pro for $20 + digital download",
+      "summary": "DigitalKeysBox offers this Microsoft 4-License Bundle for $20 when applying promo code \"DN4IN1\" at checkout. That's $5 per license and a savings of $580 off the listed price. Delivery is by email, usually within 15 minutes. Includ",
+      "url": "https://www.dealnews.com/Microsoft-4-License-Bundle-Windows-11-Pro-Office-Pro-2024-Project-Pro-Visio-Pro-for-20-digital-download/22180337.html?iref=rss",
+      "imageUrl": "https://d.dlnws.com/64599/1789371222-4-1-microsoftproducts.jpg?w=900",
+      "source": "DealNews",
+      "sourceUrl": "https://www.dealnews.com",
+      "merchant": "DealNews",
+      "category": "Everyday",
+      "price": 20,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T07:33:48.000Z",
+      "score": 60,
+      "badge": "Worth a look",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "DealNews",
+          "url": "https://www.dealnews.com/Microsoft-4-License-Bundle-Windows-11-Pro-Office-Pro-2024-Project-Pro-Visio-Pro-for-20-digital-download/22180337.html?iref=rss"
+        }
+      ]
+    },
+    {
+      "id": "623fe6c279bdd1",
+      "title": "AND1 Little and Big Boys Zesty Athletic Sneakers ( 3 colors available) $9.97",
+      "summary": "Available for shipping and in some locations pickup https://www.walmart.com/ip/BYB-A1...pe=VARIANT",
+      "url": "https://slickdeals.net/f/20013711-and1-little-and-big-boys-zesty-athletic-sneakers-3-colors-available-9-97?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/21593583.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Walmart",
+      "category": "Style",
+      "price": 9.97,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:19:22.000Z",
+      "score": 59,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013711-and1-little-and-big-boys-zesty-athletic-sneakers-3-colors-available-9-97?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "83e0887003b136",
+      "title": "NULAS Airtight Food Storage Containers with Lids, 4pcs BPA-Free Plastic Meal Prep Containers & Kitchen Pantry Organization Canisters 135.2 fl oz,Black $18.99",
+      "summary": "No code needed. Product details NULAS stackable 4-piece airtight food storage container set keeps your pantry neat and food fresh, featuring BPA-free clear plastic, side-locking interchangeable...",
+      "url": "https://slickdeals.net/f/20013705-nulas-airtight-food-storage-containers-with-lids-4pcs-bpa-free-plastic-meal-prep-containers-kitchen-pantry-organization-canisters-135-2-fl-oz-black-18-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/21593544.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Slickdeals",
+      "category": "Home",
+      "price": 18.99,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:18:23.000Z",
+      "score": 59,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013705-nulas-airtight-food-storage-containers-with-lids-4pcs-bpa-free-plastic-meal-prep-containers-kitchen-pantry-organization-canisters-135-2-fl-oz-black-18-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "056188f5064b1b",
+      "title": "George Men's Jonaah Oxford Dress Shoes ( sizes 7.5 - 9.5 and 13 available) $7.97",
+      "summary": "Available for shipping and in some locations pickup https://www.walmart.com/ip/George...5376100933",
+      "url": "https://slickdeals.net/f/20013696-george-men-s-jonaah-oxford-dress-shoes-sizes-7-5-9-5-and-13-available-7-97?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/21593511.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Walmart",
+      "category": "Style",
+      "price": 7.97,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:16:14.000Z",
+      "score": 59,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013696-george-men-s-jonaah-oxford-dress-shoes-sizes-7-5-9-5-and-13-available-7-97?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "66ccceb330d084",
+      "title": "$139.57: Metabo HPT 1/4-Inch 18V MultiVolt Cordless 18-Ga Narrow Crown Stapler Kit, 2.0Ah Battery (N1804DA) at Amazon",
+      "summary": "Amazon.com has Metabo HPT 18V MultiVolt™ Cordless Stapler Kit | 1/4-Inch 18-Ga Narrow Crown | Accepts 1/2-Inch up to 1-1/2-Inch 18-Ga 1/4-Inch Staples | Includes 18V 2.0Ah Battery | Lifetime Tool...",
+      "url": "https://slickdeals.net/f/20013684-139-57-metabo-hpt-1-4-inch-18v-multivolt-cordless-18-ga-narrow-crown-stapler-kit-2-0ah-battery-n1804da-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21593490.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Amazon",
+      "category": "Home",
+      "price": 139.57,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:15:16.000Z",
+      "score": 59,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013684-139-57-metabo-hpt-1-4-inch-18v-multivolt-cordless-18-ga-narrow-crown-stapler-kit-2-0ah-battery-n1804da-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "a51f17cdb2a83f",
+      "title": "AND1 Men's Zone Mule Slip On Sandals ( Available in 2 Colors ) $5.99",
+      "summary": "Available for shipping *Sizes Available Grey 8, 9 and 11 Green 10, 11, 12 and 13* https://www.walmart.com/ip/M-A1-Z...7460103671",
+      "url": "https://slickdeals.net/f/20013666-and1-men-s-zone-mule-slip-on-sandals-available-in-2-colors-5-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/21593391.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Walmart",
+      "category": "Everyday",
+      "price": 5.99,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:12:53.000Z",
+      "score": 59,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013666-and1-men-s-zone-mule-slip-on-sandals-available-in-2-colors-5-99?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "ce16371535a1bf",
+      "title": "Lamicall 15W for MagSafe Car Mount Charger, 360° Wireless Car Phone Holder $15 AC",
+      "summary": "Lamicall *15W for MagSafe Car Mount Charger*, 360° Wireless Car Phone Holder Dual USB-C Ports Magnetic Phone Holder for Car, 98LBS Vacuum Suction Phone Mount for iPhone 18 17 16 Duo Pro Max Truck...",
+      "url": "https://slickdeals.net/f/20013663-lamicall-15w-for-magsafe-car-mount-charger-360-wireless-car-phone-holder-15-ac?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/21593376.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Slickdeals",
+      "category": "Tech",
+      "price": 15,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:12:48.000Z",
+      "score": 59,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013663-lamicall-15w-for-magsafe-car-mount-charger-360-wireless-car-phone-holder-15-ac?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "9f7476e35ce38f",
+      "title": "$9.99: G4Free Women's Puffer Tote Bag, Expandable Work & Travel Bag (Black/Pink/Beige) at Amazon",
+      "summary": "G4Free via Amazon.com has G4Free Women's Puffer Tote Bag, Expandable Work & Travel Bag (Black/Pink/Beige) for $9.99. Shipping is free with Prime or on $35+ orders. Color: Black [amazon.com]...",
+      "url": "https://slickdeals.net/f/20013657-9-99-g4free-women-s-puffer-tote-bag-expandable-work-travel-bag-black-pink-beige-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/21593358.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Amazon",
+      "category": "Travel",
+      "price": 9.99,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:10:46.000Z",
+      "score": 59,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013657-9-99-g4free-women-s-puffer-tote-bag-expandable-work-travel-bag-black-pink-beige-at-amazon?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
+        }
+      ]
+    },
+    {
+      "id": "e06edaf919ab48",
+      "title": "$20 FS Walmart+ or Pick Up Where Available Soft Stags Men’s Messina Hybrid Dress Casual Chukka Boot with Superflex Comfort Tech size 8.5-13 Wide width too-",
+      "summary": "https://www.walmart.com/ip/Soft-S...7079609876 in tan or black at link. Size avail. based on color. wide with available in the larger sizes.",
+      "url": "https://slickdeals.net/f/20013654-20-fs-walmart-or-pick-up-where-available-soft-stags-men-s-messina-hybrid-dress-casual-chukka-boot-with-superflex-comfort-tech-size-8-5-13-wide-width-too?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2",
+      "imageUrl": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/21593325.thumb",
+      "source": "Slickdeals",
+      "sourceUrl": "https://slickdeals.net",
+      "merchant": "Walmart",
+      "category": "Tech",
+      "price": 20,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-14T16:09:58.000Z",
+      "score": 59,
+      "badge": "Fresh find",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Slickdeals",
+          "url": "https://slickdeals.net/f/20013654-20-fs-walmart-or-pick-up-where-available-soft-stags-men-s-messina-hybrid-dress-casual-chukka-boot-with-superflex-comfort-tech-size-8-5-13-wide-width-too?utm_source=rss&utm_content=4,9,10,13,25,30,38,39,53,54,177&utm_medium=RSS2"
         }
       ]
     },
@@ -964,74 +1012,50 @@
       ]
     },
     {
-      "id": "24e2bc0c2a4d0c",
-      "title": "How to get your cut of PlayStation's $7.85 million settlement",
-      "summary": "Sony should soon be issuing payments for a class-action lawsuit, but your cut will likely be quite small.",
-      "url": "https://www.engadget.com/2252822/how-to-get-cut-sony-playstation-digital-game-settlement/",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-get-your-cut-of-playstations-7-85-million-settlement/l-intro-1788361164.jpg",
-      "source": "Engadget Deals",
-      "sourceUrl": "https://www.engadget.com/deals/",
-      "merchant": "Engadget Deals",
-      "category": "Gaming",
-      "price": 7.85,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T13:00:00.000Z",
-      "score": 56,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Engadget Deals",
-          "url": "https://www.engadget.com/2252822/how-to-get-cut-sony-playstation-digital-game-settlement/"
-        }
-      ]
-    },
-    {
-      "id": "2ffcf6c0653218",
-      "title": "AirPods 5 pre-orders now live, but flagship AirPods Pro 3 only $50 more right now",
-      "summary": "Apple has now unleashed its new AirPods 5 with pre-orders now live on the base set at $129 and the higher-end Wireless Charging Case model at $149. Thing is, you can score the flagship AirPods Pro 3 for just $50 more than that rig",
-      "url": "https://9to5toys.com/2026/09/13/airpods-5-vs-airpods-pro-3/",
-      "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/AirPods-Pro-3-vs-AirPods-5.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Toys",
-      "sourceUrl": "https://9to5toys.com",
-      "merchant": "9to5Toys",
-      "category": "Tech",
-      "price": 50,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-13T09:46:00.000Z",
-      "score": 55,
-      "badge": "Fresh find",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "9to5Toys",
-          "url": "https://9to5toys.com/2026/09/13/airpods-5-vs-airpods-pro-3/"
-        }
-      ]
-    },
-    {
-      "id": "8a8dd79a990490",
-      "title": "Pay just $70 for $150 in aloSIM credit and skip roaming rates abroad",
-      "summary": "Macworld TL;DR: Pay $69.99 to get $150 in aloSIM travel-data credit, redeemable for 12 months toward country and regional packages in 200+ countries. Coming home from vacation with a souvenir is nice. Coming home to a pile of dail",
-      "url": "https://www.macworld.com/article/3233489/pay-just-70-for-150-in-alosim-credit-and-skip-roaming-rates-abroad.html",
-      "imageUrl": "https://www.macworld.com/wp-content/uploads/2026/09/3233489-0-48200400-1789286462-aloSIM.jpg?quality=50&strip=all",
+      "id": "ba60d29c146612",
+      "title": "Need Windows on your Mac? Windows 11 Pro is currently just $9.97",
+      "summary": "Macworld TL;DR: Give your current PC a fresh start or run Windows on a Mac with Windows 11 Pro for $9.97 (MSRP $199) through September 27. A sluggish or aging computer doesn’t always mean it’s time to start shopping for a replacem",
+      "url": "https://www.macworld.com/article/3233500/need-windows-on-your-mac-windows-11-pro-is-currently-just-9-97.html",
+      "imageUrl": "https://www.macworld.com/wp-content/uploads/2026/09/3233500-0-36590200-1789372870-Windows-11-Pro.jpg?quality=50&strip=all",
       "source": "Macworld Deals",
       "sourceUrl": "https://www.macworld.com/deals",
       "merchant": "Macworld Deals",
-      "category": "Travel",
-      "price": 150,
+      "category": "Tech",
+      "price": 9.97,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-13T08:00:00.000Z",
-      "score": 52,
-      "badge": "Fresh find",
+      "publishedAt": "2026-09-14T08:00:00.000Z",
+      "score": 51,
+      "badge": "Worth a look",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "Macworld Deals",
-          "url": "https://www.macworld.com/article/3233489/pay-just-70-for-150-in-alosim-credit-and-skip-roaming-rates-abroad.html"
+          "url": "https://www.macworld.com/article/3233500/need-windows-on-your-mac-windows-11-pro-is-currently-just-9-97.html"
+        }
+      ]
+    },
+    {
+      "id": "60edb166755c13",
+      "title": "Pay $11 once & block annoying ads on up to 9 devices for life",
+      "summary": "Macworld TL;DR: Through Sept. 20, pay just $11 (reg. $169.99) for lifetime AdGuard Family access on up to nine devices, including ad blocking, privacy protection, malware protection, and parental controls. The internet has plenty ",
+      "url": "https://www.macworld.com/article/3233448/pay-11-once-block-annoying-ads-on-up-to-9-devices-for-life.html",
+      "imageUrl": "https://www.macworld.com/wp-content/uploads/2026/09/3233448-0-03942400-1789200078-AdGuard-Fam-1.jpg?quality=50&strip=all",
+      "source": "Macworld Deals",
+      "sourceUrl": "https://www.macworld.com/deals",
+      "merchant": "Macworld Deals",
+      "category": "Everyday",
+      "price": 11,
+      "originalPrice": 169.99,
+      "discountPercent": 94,
+      "publishedAt": "2026-09-12T08:00:00.000Z",
+      "score": 50,
+      "badge": "Price drop",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Macworld Deals",
+          "url": "https://www.macworld.com/article/3233448/pay-11-once-block-annoying-ads-on-up-to-9-devices-for-life.html"
         }
       ]
     },
@@ -1084,26 +1108,26 @@
       ]
     },
     {
-      "id": "47a820b4afa08a",
-      "title": "Samsung Galaxy S26 256GB Mint Mobile Android Smartphone: Free w/ trade-in + 1yr of Unlimited for $15/month + free shipping",
-      "summary": "With an eligible trade-in, the Samsung Galaxy S26 256GB Mint Mobile Android Smartphone is free when bundled with a 12-month Mint Mobile plan at $180 upfront (equivalent to $15/mo.). That's a $900 savings. The trade-in is processed",
-      "url": "https://www.dealnews.com/products/Samsung/Unlocked-Samsung-Galaxy-S26-256-GB-Android-Smartphone/497943.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1789206525-s26_cobaltviolet_lockup_rgb.png?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "DealNews",
+      "id": "0522361072bc53",
+      "title": "The new AirPods 5 are available to preorder at Walmart — and you can save on older models starting at just $19",
+      "summary": "Walmart has Apple's AirPods 5 available for preorder, and you can also find deals on older models, including AirPods 4, AirPods Pro 3, and Apple Earbuds, starting at $19.",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/the-new-airpods-5-are-available-to-preorder-at-walmart-and-you-can-save-on-older-models-starting-at-just-usd19",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/kkNvoq3tbWLikBVBUrymGH-1280-80.jpg",
+      "source": "TechRadar Deals",
+      "sourceUrl": "https://www.techradar.com/deals",
+      "merchant": "Walmart",
       "category": "Tech",
-      "price": 15,
+      "price": 19,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-12T09:48:51.000Z",
-      "score": 47,
+      "publishedAt": "2026-09-13T16:47:41.000Z",
+      "score": 48,
       "badge": "Worth a look",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/products/Samsung/Unlocked-Samsung-Galaxy-S26-256-GB-Android-Smartphone/497943.html?iref=rss"
+          "source": "TechRadar Deals",
+          "url": "https://www.techradar.com/audio/earbuds-airpods/the-new-airpods-5-are-available-to-preorder-at-walmart-and-you-can-save-on-older-models-starting-at-just-usd19"
         }
       ]
     },
@@ -1132,122 +1156,26 @@
       ]
     },
     {
-      "id": "7ff3fbcff312af",
-      "title": "Monarc’s Tracer smart urban commuter e-bike gets doubled 130-mile range + extra storage with FREE $609 bundle at $1,899",
-      "summary": "Alongside the bundle for Monarc’s Marker All-Terrain Smart e-bike , you can also find the same spare battery and stem bag ($609 value) being offered with the brand’s Tracer Urban Commuter Smart e-bike at $1,899 shipped . As a new ",
-      "url": "https://9to5toys.com/2026/09/11/monarc-tracer-smart-urban-commuter-e-bike-1899/",
-      "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Monarc-Tracer-Urban-Smart-e-bike-2.jpg?quality=82&strip=all&w=1200",
-      "source": "9to5Toys",
-      "sourceUrl": "https://9to5toys.com",
-      "merchant": "9to5Toys",
-      "category": "Everyday",
-      "price": 1899,
+      "id": "8a8dd79a990490",
+      "title": "Pay just $70 for $150 in aloSIM credit and skip roaming rates abroad",
+      "summary": "Macworld TL;DR: Pay $69.99 to get $150 in aloSIM travel-data credit, redeemable for 12 months toward country and regional packages in 200+ countries. Coming home from vacation with a souvenir is nice. Coming home to a pile of dail",
+      "url": "https://www.macworld.com/article/3233489/pay-just-70-for-150-in-alosim-credit-and-skip-roaming-rates-abroad.html",
+      "imageUrl": "https://www.macworld.com/wp-content/uploads/2026/09/3233489-0-48200400-1789286462-aloSIM.jpg?quality=50&strip=all",
+      "source": "Macworld Deals",
+      "sourceUrl": "https://www.macworld.com/deals",
+      "merchant": "Macworld Deals",
+      "category": "Travel",
+      "price": 150,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-11T21:47:07.000Z",
-      "score": 38,
+      "publishedAt": "2026-09-13T08:00:00.000Z",
+      "score": 35,
       "badge": "Worth a look",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
-          "source": "9to5Toys",
-          "url": "https://9to5toys.com/2026/09/11/monarc-tracer-smart-urban-commuter-e-bike-1899/"
-        }
-      ]
-    },
-    {
-      "id": "30d4804b2c62ad",
-      "title": "Get a FREE spare battery and stem bag ($609 value) with Monarc’s Marker all-terrain smart e-bike at $1,999",
-      "summary": "Monarc is currently offering a FREE spare battery and stem bag ($609 value) with a purchase of its Marker All-Terrain Smart e-bike at $1,999 shipped . This bundle, following the usual trend of a Lectric sub-brand, would run you $2",
-      "url": "https://9to5toys.com/2026/09/11/monarc-marker-all-terrain-smart-e-bike-1999-2/",
-      "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Monarc-Marker-All-Terrain-Smart-e-bike.jpg?quality=82&strip=all&w=1200",
-      "source": "9to5Toys",
-      "sourceUrl": "https://9to5toys.com",
-      "merchant": "9to5Toys",
-      "category": "Everyday",
-      "price": 1999,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-11T21:14:54.000Z",
-      "score": 37,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "9to5Toys",
-          "url": "https://9to5toys.com/2026/09/11/monarc-marker-all-terrain-smart-e-bike-1999-2/"
-        }
-      ]
-    },
-    {
-      "id": "f1b8d4da1ef2f0",
-      "title": "Score Beatbot’s premium 5-in-1 AquaSense 2 Ultra robot pool cleaner with a FREE clarifier bundle down at $2,149 ($1,121 total savings)",
-      "summary": "Alongside the soon-to-end Labor Day Sale deals , Beatbot is offering a short-term flash sale on its premium AquaSense 2 Ultra 5-in-1 AI Robotic Pool Cleaner at $2,149 shipped that gets a FREE AquaRefine 4-piece kit of 3-in-1 clari",
-      "url": "https://9to5toys.com/2026/09/11/beatbot-5-in-1-aquasense-2-ultra-robot-pool-cleaner-2149/",
-      "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Beatbot-AquaSense-2-Ultra-robotic-pool-cleaner.jpg?quality=82&strip=all&w=1500",
-      "source": "9to5Toys",
-      "sourceUrl": "https://9to5toys.com",
-      "merchant": "9to5Toys",
-      "category": "Everyday",
-      "price": 2149,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-11T20:26:27.000Z",
-      "score": 37,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "9to5Toys",
-          "url": "https://9to5toys.com/2026/09/11/beatbot-5-in-1-aquasense-2-ultra-robot-pool-cleaner-2149/"
-        }
-      ]
-    },
-    {
-      "id": "7bf5ea3edb823c",
-      "title": "Getting a new PC? Use this transfer kit, only $35",
-      "summary": "TL;DR: Move to a new PC, back up your drive, and wipe the old one with the PC Transfer Kit , now only $35 for a lifetime subscription. Getting a new PC is exciting right up until you have to migrate all your files, reinstall all y",
-      "url": "https://www.pcworld.com/article/3232399/getting-a-new-pc-use-this-transfer-kit-only-35.html",
-      "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/09/3232399-0-42622600-1789200057-PC-Transfer-Kit.jpg?quality=50&strip=all",
-      "source": "PCWorld Deals",
-      "sourceUrl": "https://www.pcworld.com/deals",
-      "merchant": "PCWorld Deals",
-      "category": "Everyday",
-      "price": 35,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-12T08:00:00.000Z",
-      "score": 36,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "PCWorld Deals",
-          "url": "https://www.pcworld.com/article/3232399/getting-a-new-pc-use-this-transfer-kit-only-35.html"
-        }
-      ]
-    },
-    {
-      "id": "d609d98f9d1193",
-      "title": "Hisense’s C3 triple color RGB smart laser projector can cast up to 300-inch screens at a $1,700 low right now ($300 off)",
-      "summary": "Amazon is currently offering the second-ever discount on the Hisense C3 Triple Color RGB Smart Laser Projector down at $1,699.99 shipped. Down from $2,000, as I said, this is the second-ever chance at savings that we’ve seen since",
-      "url": "https://9to5toys.com/2026/09/11/hisense-c3-triple-color-rgb-smart-laser-projector-1700-low/",
-      "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/Hisense-C3-Triple-Color-RGB-Smart-Laser-Projector.png?w=1600",
-      "source": "9to5Toys",
-      "sourceUrl": "https://9to5toys.com",
-      "merchant": "Amazon",
-      "category": "Everyday",
-      "price": 1700,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-11T19:45:25.000Z",
-      "score": 36,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "9to5Toys",
-          "url": "https://9to5toys.com/2026/09/11/hisense-c3-triple-color-rgb-smart-laser-projector-1700-low/"
+          "source": "Macworld Deals",
+          "url": "https://www.macworld.com/article/3233489/pay-just-70-for-150-in-alosim-credit-and-skip-roaming-rates-abroad.html"
         }
       ]
     },
@@ -1265,85 +1193,13 @@
       "originalPrice": null,
       "discountPercent": null,
       "publishedAt": "2026-09-11T17:55:16.000Z",
-      "score": 34,
+      "score": 29,
       "badge": "Worth a look",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "Android Authority Deals",
           "url": "https://www.androidauthority.com/hisense-m2-pro-4k-triple-laser-projector-deal-3710453/"
-        }
-      ]
-    },
-    {
-      "id": "f92c2c26c4850f",
-      "title": "Get an OLED gaming monitor for just $310",
-      "summary": "$40 below standard AOC OLED monitor for $310 SEE DEAL The price floor for OLED monitors has been about $350 for most of the year. If you wanted something cheaper, you generally needed to look for a refurb model. Today AOC is offer",
-      "url": "https://www.pcworld.com/article/3233236/get-an-oled-gaming-monitor-for-just-310.html",
-      "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/09/3233236-0-47299200-1789136440-image_3b1f39.png",
-      "source": "PCWorld Deals",
-      "sourceUrl": "https://www.pcworld.com/deals",
-      "merchant": "PCWorld Deals",
-      "category": "Gaming",
-      "price": 310,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-11T14:20:25.000Z",
-      "score": 31,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "PCWorld Deals",
-          "url": "https://www.pcworld.com/article/3233236/get-an-oled-gaming-monitor-for-just-310.html"
-        }
-      ]
-    },
-    {
-      "id": "012e9faa551164",
-      "title": "Own Babbel for life, putting 100+ expert linguists in your language-learning corner",
-      "summary": "TL;DR: New U.S. users can get lifetime access to all 14 Babbel languages for $159 (MSRP $299) with code LEARN from StackSocial, including 10,000+ hours of lessons developed by more than 100 expert linguists. There are plenty of ap",
-      "url": "https://www.pcworld.com/article/3232492/own-babbel-for-life-putting-100-expert-linguists-in-your-language-learning-corner.html",
-      "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/09/3232492-0-25497200-1789200079-Babbel.jpg?quality=50&strip=all",
-      "source": "PCWorld Deals",
-      "sourceUrl": "https://www.pcworld.com/deals",
-      "merchant": "PCWorld Deals",
-      "category": "Everyday",
-      "price": 159,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-12T08:00:00.000Z",
-      "score": 29,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "PCWorld Deals",
-          "url": "https://www.pcworld.com/article/3232492/own-babbel-for-life-putting-100-expert-linguists-in-your-language-learning-corner.html"
-        }
-      ]
-    },
-    {
-      "id": "1137f26237376e",
-      "title": "This 240 Hz OLED may only be 27-inches, but it's a $330 gaming monitor you won't want to overlook",
-      "summary": "The monitor deals are still a-biting.",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/this-240-hz-oled-may-only-be-27-inches-but-its-a-usd330-gaming-monitor-you-wont-want-to-overlook/",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/2QAeNuAK5W5TA3d5BLcdgh-1280-80.jpg",
-      "source": "PC Gamer Deals",
-      "sourceUrl": "https://www.pcgamer.com/hardware/deals/",
-      "merchant": "PC Gamer Deals",
-      "category": "Gaming",
-      "price": 330,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-11T11:29:02.000Z",
-      "score": 29,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "PC Gamer Deals",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/this-240-hz-oled-may-only-be-27-inches-but-its-a-usd330-gaming-monitor-you-wont-want-to-overlook/"
         }
       ]
     },
@@ -1368,102 +1224,6 @@
         {
           "source": "Android Authority Deals",
           "url": "https://www.androidauthority.com/edifier-g2000-pro-speakers-deal-3710082/"
-        }
-      ]
-    },
-    {
-      "id": "8794920556ce28",
-      "title": "'Extremely reliable' GMKtec M6 Ultra is our favorite mini PC with Ryzen 5 power — and it just dropped by $200",
-      "summary": "One of the best mini PCs we've tested for anyone who wants a reliable office machine. You can even add an eGPU for graphics-intensive workloads and gaming.",
-      "url": "https://www.techradar.com/pro/extremely-reliable-gmktec-m6-ultra-is-our-favorite-mini-pc-with-ryzen-5-power-and-it-just-dropped-by-usd200",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/BC7AvUG45tLBiRxwZ97DWZ-1280-80.jpg",
-      "source": "TechRadar Deals",
-      "sourceUrl": "https://www.techradar.com/deals",
-      "merchant": "TechRadar Deals",
-      "category": "Gaming",
-      "price": 200,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-10T16:25:00.000Z",
-      "score": 29,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "TechRadar Deals",
-          "url": "https://www.techradar.com/pro/extremely-reliable-gmktec-m6-ultra-is-our-favorite-mini-pc-with-ryzen-5-power-and-it-just-dropped-by-usd200"
-        }
-      ]
-    },
-    {
-      "id": "d4f82080648963",
-      "title": "Toshiba's 12TB N300 Pro NAS hard drive has CMR recording, 7,200 RPM performance, plus a five-year warranty — and it's $100 off at Newegg",
-      "summary": "Toshiba's 12TB N300 Pro NAS hard drive has CMR recording, a 512MB cache, and a five-year warranty, and it's down to $430 at Newegg.",
-      "url": "https://www.techradar.com/pro/toshibas-12tb-n300-pro-nas-hard-drive-has-cmr-recording-7-200-rpm-performance-plus-a-five-year-warranty-and-its-usd100-off-at-newegg",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/No6EaVKgmAsmPNzGzZgXY-1280-80.jpg",
-      "source": "TechRadar Deals",
-      "sourceUrl": "https://www.techradar.com/deals",
-      "merchant": "Newegg",
-      "category": "Everyday",
-      "price": 430,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-10T15:56:16.000Z",
-      "score": 29,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "TechRadar Deals",
-          "url": "https://www.techradar.com/pro/toshibas-12tb-n300-pro-nas-hard-drive-has-cmr-recording-7-200-rpm-performance-plus-a-five-year-warranty-and-its-usd100-off-at-newegg"
-        }
-      ]
-    },
-    {
-      "id": "774011d253c333",
-      "title": "Highly rated iPad Air 13-inch plunges to $885 in this all-time low Amazon deal",
-      "summary": "Save $164 on the Apple iPad Air 13-inch M2 with 256GB and cellular, now back to its all-time low price at Amazon.",
-      "url": "https://www.androidauthority.com/apple-ipad-air-13-inch-m2-deal-3709949/",
-      "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/07/apple-ipad-air-display-on-chair.jpg",
-      "source": "Android Authority Deals",
-      "sourceUrl": "https://www.androidauthority.com/deals",
-      "merchant": "Amazon",
-      "category": "Tech",
-      "price": 885,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-10T14:55:49.000Z",
-      "score": 29,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Android Authority Deals",
-          "url": "https://www.androidauthority.com/apple-ipad-air-13-inch-m2-deal-3709949/"
-        }
-      ]
-    },
-    {
-      "id": "d49ec8221f8911",
-      "title": "Corsair Scimitar RGB Elite deal brings this 12-button MMO mouse down to just $49.99",
-      "summary": "Save 44% on the gaming mouse in its best deal since Prime Day, and get 17 programmable buttons plus RGB lighting.",
-      "url": "https://www.androidauthority.com/corsair-scimitar-rgb-elite-deal-3709351/",
-      "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/Corsair-Scimitar-RGB-Elite-Wired-MMO-MOBA-PC-Gaming-Mouse-Press-Image.jpg",
-      "source": "Android Authority Deals",
-      "sourceUrl": "https://www.androidauthority.com/deals",
-      "merchant": "Android Authority Deals",
-      "category": "Gaming",
-      "price": 49.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-09T16:12:09.000Z",
-      "score": 29,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Android Authority Deals",
-          "url": "https://www.androidauthority.com/corsair-scimitar-rgb-elite-deal-3709351/"
         }
       ]
     },
@@ -1512,6 +1272,30 @@
         {
           "source": "Windows Central Deals",
           "url": "https://www.windowscentral.com/hardware/laptops/back-to-school-dell-new-xps-13-and-more"
+        }
+      ]
+    },
+    {
+      "id": "1137f26237376e",
+      "title": "This 240 Hz OLED may only be 27-inches, but it's a $330 gaming monitor you won't want to overlook",
+      "summary": "The monitor deals are still a-biting.",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/this-240-hz-oled-may-only-be-27-inches-but-its-a-usd330-gaming-monitor-you-wont-want-to-overlook/",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/2QAeNuAK5W5TA3d5BLcdgh-1280-80.jpg",
+      "source": "PC Gamer Deals",
+      "sourceUrl": "https://www.pcgamer.com/hardware/deals/",
+      "merchant": "PC Gamer Deals",
+      "category": "Gaming",
+      "price": 330,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-11T11:29:02.000Z",
+      "score": 28,
+      "badge": "Worth a look",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "PC Gamer Deals",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/this-240-hz-oled-may-only-be-27-inches-but-its-a-usd330-gaming-monitor-you-wont-want-to-overlook/"
         }
       ]
     },
@@ -1636,54 +1420,6 @@
       ]
     },
     {
-      "id": "f8d3cc913b2f48",
-      "title": "This Anker earbuds deal gets you the Soundcore P30i for half price at Amazon",
-      "summary": "The earbuds drop to $24.99 at Amazon with ANC, 45-hour battery life, and a case that doubles as a phone stand.",
-      "url": "https://www.androidauthority.com/anker-soundcore-p30i-earbids-deal-3710444/",
-      "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/Anker-Soundcore-P30i-Noise-Cancelling-Earbuds-Press-Image.jpg",
-      "source": "Android Authority Deals",
-      "sourceUrl": "https://www.androidauthority.com/deals",
-      "merchant": "Amazon",
-      "category": "Tech",
-      "price": 24.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-11T17:37:44.000Z",
-      "score": 27,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Android Authority Deals",
-          "url": "https://www.androidauthority.com/anker-soundcore-p30i-earbids-deal-3710444/"
-        }
-      ]
-    },
-    {
-      "id": "fb42e321bd8cc8",
-      "title": "This is a gaming laptop I'd actually buy with my own cash — an RTX 5070 graphics card and 32GB of RAM for well under $1,400",
-      "summary": "This Gigabyte gaming laptop proves you can still get great specs without spending over $1,500.",
-      "url": "https://www.techradar.com/computing/gaming-laptops/this-is-a-gaming-laptop-id-actually-buy-with-my-own-cash-an-rtx-5070-graphics-card-and-32gb-of-ram-for-well-under-usd1-400",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/KiVzRP3dUwHBMLwotfo7RN-1280-80.jpg",
-      "source": "TechRadar Deals",
-      "sourceUrl": "https://www.techradar.com/deals",
-      "merchant": "TechRadar Deals",
-      "category": "Gaming",
-      "price": 1400,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-11T15:53:14.000Z",
-      "score": 27,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "TechRadar Deals",
-          "url": "https://www.techradar.com/computing/gaming-laptops/this-is-a-gaming-laptop-id-actually-buy-with-my-own-cash-an-rtx-5070-graphics-card-and-32gb-of-ram-for-well-under-usd1-400"
-        }
-      ]
-    },
-    {
       "id": "56f8473a84ab8e",
       "title": "Price cut: Get FastestVPN on 10 devices, just $25 for life",
       "summary": "Keep your personal data private with a FastestVPN lifetime license, on sale now. Supports iOS, macOS, Windows, Android, smart TVs and more. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-t",
@@ -1756,74 +1492,26 @@
       ]
     },
     {
-      "id": "1a56547b9daaf2",
-      "title": "Chase Private Client Checking℠ for $3,000 bonus w/ new account",
-      "summary": "Buy Now at Chase Consumer Bank Features Earn up to $3,000 when you open a new Chase Private Client Checking℠ account with qualifying activities. Your dedicated banker and a J.P. Morgan Wealth Management advisor work as a team, pro",
-      "url": "https://www.dealnews.com/Chase-Private-Client-Checking-for-3-000-bonus-w-new-account/21980765.html?iref=rss",
-      "imageUrl": "https://d.dlnws.com/64599/1720393662-dn-image-6149942.png?w=900",
-      "source": "DealNews",
-      "sourceUrl": "https://www.dealnews.com",
-      "merchant": "DealNews",
-      "category": "Everyday",
-      "price": 3000,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-10T17:49:32.000Z",
-      "score": 26,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "DealNews",
-          "url": "https://www.dealnews.com/Chase-Private-Client-Checking-for-3-000-bonus-w-new-account/21980765.html?iref=rss"
-        }
-      ]
-    },
-    {
-      "id": "64c942a6c2f329",
-      "title": "Get 50-plus AI models for life for just $39.99 — no monthly fees",
-      "summary": "AskAnyModel is a multi-AI platform that gives you lifetime access to models like GPT and Claude, with monthly credits for flagship models. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-to",
-      "url": "https://www.cultofmac.com/deals/askanymodel-multi-ai-platform",
-      "imageUrl": "https://www.cultofmac.com/wp-content/uploads/2026/08/AskAnyModel-co-e1787690471225.jpg",
-      "source": "Cult of Mac Deals",
-      "sourceUrl": "https://www.cultofmac.com/category/deals",
-      "merchant": "Cult of Mac Deals",
-      "category": "Tech",
-      "price": 39.99,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-11T14:30:53.000Z",
-      "score": 24,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Cult of Mac Deals",
-          "url": "https://www.cultofmac.com/deals/askanymodel-multi-ai-platform"
-        }
-      ]
-    },
-    {
-      "id": "3c4556486d826e",
-      "title": "Apple Watch Series 12 is now up for preorder — here's how to get the device for as little as $219 at Best Buy",
-      "summary": "The Apple Watch Series 12 is available for preorder, and Best Buy already has an impressive discount when you trade in an older smartwatch.",
-      "url": "https://www.techradar.com/health-fitness/smartwatches/apple-watch-series-12-is-now-up-for-preorder-heres-how-to-get-the-device-for-as-little-as-usd219-at-best-buy",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ewyhHsHoJpoRCXrjN7ujKc-1280-80.jpg",
+      "id": "fb42e321bd8cc8",
+      "title": "This is a gaming laptop I'd actually buy with my own cash — an RTX 5070 graphics card and 32GB of RAM for well under $1,400",
+      "summary": "This Gigabyte gaming laptop proves you can still get great specs without spending over $1,500.",
+      "url": "https://www.techradar.com/computing/gaming-laptops/this-is-a-gaming-laptop-id-actually-buy-with-my-own-cash-an-rtx-5070-graphics-card-and-32gb-of-ram-for-well-under-usd1-400",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/KiVzRP3dUwHBMLwotfo7RN-1280-80.jpg",
       "source": "TechRadar Deals",
       "sourceUrl": "https://www.techradar.com/deals",
-      "merchant": "Best Buy",
-      "category": "Tech",
-      "price": 219,
+      "merchant": "TechRadar Deals",
+      "category": "Gaming",
+      "price": 1400,
       "originalPrice": null,
       "discountPercent": null,
-      "publishedAt": "2026-09-10T16:33:29.000Z",
+      "publishedAt": "2026-09-11T15:53:14.000Z",
       "score": 23,
       "badge": "Worth a look",
       "corroborationCount": 1,
       "alsoFoundAt": [
         {
           "source": "TechRadar Deals",
-          "url": "https://www.techradar.com/health-fitness/smartwatches/apple-watch-series-12-is-now-up-for-preorder-heres-how-to-get-the-device-for-as-little-as-usd219-at-best-buy"
+          "url": "https://www.techradar.com/computing/gaming-laptops/this-is-a-gaming-laptop-id-actually-buy-with-my-own-cash-an-rtx-5070-graphics-card-and-32gb-of-ram-for-well-under-usd1-400"
         }
       ]
     },
@@ -1848,6 +1536,30 @@
         {
           "source": "Tom's Guide Deals",
           "url": "https://www.tomsguide.com/sales-events/ikea-just-dropped-a-new-halloween-decor-collection-my-12-favorite-picks-starting-at-usd1"
+        }
+      ]
+    },
+    {
+      "id": "f8d3cc913b2f48",
+      "title": "This Anker earbuds deal gets you the Soundcore P30i for half price at Amazon",
+      "summary": "The earbuds drop to $24.99 at Amazon with ANC, 45-hour battery life, and a case that doubles as a phone stand.",
+      "url": "https://www.androidauthority.com/anker-soundcore-p30i-earbids-deal-3710444/",
+      "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/Anker-Soundcore-P30i-Noise-Cancelling-Earbuds-Press-Image.jpg",
+      "source": "Android Authority Deals",
+      "sourceUrl": "https://www.androidauthority.com/deals",
+      "merchant": "Amazon",
+      "category": "Tech",
+      "price": 24.99,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-11T17:37:44.000Z",
+      "score": 22,
+      "badge": "Worth a look",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Android Authority Deals",
+          "url": "https://www.androidauthority.com/anker-soundcore-p30i-earbids-deal-3710444/"
         }
       ]
     },
@@ -2068,6 +1780,30 @@
       ]
     },
     {
+      "id": "64c942a6c2f329",
+      "title": "Get 50-plus AI models for life for just $39.99 — no monthly fees",
+      "summary": "AskAnyModel is a multi-AI platform that gives you lifetime access to models like GPT and Claude, with monthly credits for flagship models. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-to",
+      "url": "https://www.cultofmac.com/deals/askanymodel-multi-ai-platform",
+      "imageUrl": "https://www.cultofmac.com/wp-content/uploads/2026/08/AskAnyModel-co-e1787690471225.jpg",
+      "source": "Cult of Mac Deals",
+      "sourceUrl": "https://www.cultofmac.com/category/deals",
+      "merchant": "Cult of Mac Deals",
+      "category": "Tech",
+      "price": 39.99,
+      "originalPrice": null,
+      "discountPercent": null,
+      "publishedAt": "2026-09-11T14:30:53.000Z",
+      "score": 21,
+      "badge": "Worth a look",
+      "corroborationCount": 1,
+      "alsoFoundAt": [
+        {
+          "source": "Cult of Mac Deals",
+          "url": "https://www.cultofmac.com/deals/askanymodel-multi-ai-platform"
+        }
+      ]
+    },
+    {
       "id": "251fadf9807e28",
       "title": "When your iPhone feels too small, this iPad mini 7 is just $464.99",
       "summary": "This refurbished 2024 iPad mini 7 has an A17 Pro chip, 128GB of storage, Apple Intelligence support and an 8.3-inch Liquid Retina display. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-to",
@@ -2088,30 +1824,6 @@
         {
           "source": "Cult of Mac Deals",
           "url": "https://www.cultofmac.com/deals/refurbished-ipad-mini-7-deal"
-        }
-      ]
-    },
-    {
-      "id": "f411f7d5a1cc05",
-      "title": "Stash your most critical files with 500GB of encrypted cloud storage, just $40 for life",
-      "summary": "Secure lifetime access to 500GB of Vault encrypted cloud storage (browser-based AES-GCM-256 encryption and zero-knowledge privacy). (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and d",
-      "url": "https://www.cultofmac.com/deals/vault-encrypted-cloud-storage-deal",
-      "imageUrl": "https://www.cultofmac.com/wp-content/uploads/2026/09/Vault-co.jpg.webp",
-      "source": "Cult of Mac Deals",
-      "sourceUrl": "https://www.cultofmac.com/category/deals",
-      "merchant": "Cult of Mac Deals",
-      "category": "Tech",
-      "price": 40,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-03T13:45:28.000Z",
-      "score": 21,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Cult of Mac Deals",
-          "url": "https://www.cultofmac.com/deals/vault-encrypted-cloud-storage-deal"
         }
       ]
     },
@@ -2162,42 +1874,18 @@
           "url": "https://www.androidauthority.com/energizer-outdoor-speaker-deal-3710094/"
         }
       ]
-    },
-    {
-      "id": "418052a7447123",
-      "title": "The XGIMI Horizon 20 Pro falls 19% at Amazon with 4K, Dolby Vision, and 240Hz gaming",
-      "summary": "The XGIMI Horizon 20 Pro drops to $1,618.98 at Amazon, bringing 4K triple-laser brightness to movie nights and gaming.",
-      "url": "https://www.androidauthority.com/xgimi-horizon-20-pro-deal-3709983/",
-      "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/06/XGIMI-Horizon-Pro-4K-on-table.jpg",
-      "source": "Android Authority Deals",
-      "sourceUrl": "https://www.androidauthority.com/deals",
-      "merchant": "Amazon",
-      "category": "Gaming",
-      "price": 1618.98,
-      "originalPrice": null,
-      "discountPercent": null,
-      "publishedAt": "2026-09-10T15:24:48.000Z",
-      "score": 16,
-      "badge": "Worth a look",
-      "corroborationCount": 1,
-      "alsoFoundAt": [
-        {
-          "source": "Android Authority Deals",
-          "url": "https://www.androidauthority.com/xgimi-horizon-20-pro-deal-3709983/"
-        }
-      ]
     }
   ],
   "sourceHealth": [
     {
       "name": "Slickdeals",
       "status": "ok",
-      "itemCount": 21
+      "itemCount": 19
     },
     {
       "name": "DealNews",
       "status": "ok",
-      "itemCount": 16
+      "itemCount": 18
     },
     {
       "name": "Ben's Bargains",
@@ -2207,7 +1895,7 @@
     {
       "name": "9to5Toys",
       "status": "ok",
-      "itemCount": 5
+      "itemCount": 1
     },
     {
       "name": "Tom's Guide Deals",
@@ -2217,7 +1905,7 @@
     {
       "name": "Android Authority Deals",
       "status": "ok",
-      "itemCount": 9
+      "itemCount": 7
     },
     {
       "name": "Digital Trends Deals",
@@ -2232,7 +1920,7 @@
     {
       "name": "TechRadar Deals",
       "status": "ok",
-      "itemCount": 4
+      "itemCount": 3
     },
     {
       "name": "Tom's Hardware Deals",
@@ -2327,12 +2015,12 @@
     {
       "name": "Cult of Mac Deals",
       "status": "ok",
-      "itemCount": 7
+      "itemCount": 6
     },
     {
       "name": "Engadget Deals",
       "status": "ok",
-      "itemCount": 1
+      "itemCount": 0
     },
     {
       "name": "Macworld Deals",
@@ -2342,7 +2030,7 @@
     {
       "name": "PCWorld Deals",
       "status": "ok",
-      "itemCount": 5
+      "itemCount": 1
     },
     {
       "name": "TechHive Deals",
@@ -2351,9 +2039,9 @@
     }
   ],
   "intelligence": {
-    "rawProductCandidates": 91,
-    "imageVerifiedCandidates": 91,
+    "rawProductCandidates": 78,
+    "imageVerifiedCandidates": 78,
     "duplicateClustersMerged": 0,
-    "contributingSources": 18
+    "contributingSources": 17
   }
 }
